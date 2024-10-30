@@ -8,7 +8,8 @@ CMPE 295A/B Project
 Counsel.NLP is a Smart Academic Advising Chatbot centered to advise students in the College of Engineering at San Jose State Univeristy. The project refers to previous academic papers similar in topic and implementation. Links to the academic papers are located at the bottom of this document.
 
 ## Baselines
-In order to compare our performance metrics with others previously implemented, we replicated two academic papers who applied different methods to designing a Chatbot for academic purposes. Mock student data was created and was used to train the models implemented
+In order to compare our performance metrics with others previously implemented, we replicated two academic papers who applied different methods to designing a Chatbot for academic purposes. Mock student data was created and was used to train the models implemented. The dataset is stored in the repository. [academic_advising_data.csv](baseline_experiment/baseline_evaluation/academic_advising_data.csv)
+
 
 **KNN & Naive Bayes**
 
