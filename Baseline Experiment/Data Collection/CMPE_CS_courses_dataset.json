@@ -1,0 +1,1829 @@
+[
+    {
+        "id": 1,
+        "title": "CMPE 30 - Programming Concepts and Methodology",
+        "units": "3 unit(s)",
+        "description": "Introduction to programming; overview of computer organization and introduction to software engineering. Topics include methodologies for program design, development, style, testing, and documentation; algorithms, control structures, functions, and elementary data structures.",
+        "class_structure": "Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "MATH 30  or MATH 30X  or equivalent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 2,
+        "title": "CMPE 50 - Object-Oriented Concepts and Methodology",
+        "units": "3 unit(s)",
+        "description": "Application of object-oriented software engineering techniques to the design and development of larger programs; data abstraction, structures, classes and associated algorithms.",
+        "class_structure": "Misc/Lab: Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "CMPE 30  with a minimum grade of \u201cC-\u201c. Computer Engineering and Software Engineering Majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 3,
+        "title": "CMPE 92 - International Program Studies",
+        "units": "1-6 unit(s)",
+        "description": "Study Abroad and Away transfer credit course. Study Abroad and Away provides students the opportunity to study abroad on long term programs (Exchange Programs, CSU International Programs, and International Student Exchange Programs) and short-term programs (Faculty-Led Programs and Summer School Abroad Programs) for academic credit, offering Alternative Break Programs for cultural immersion, and designing other globally focused opportunities. This course is designated as a placeholder course for Study Abroad and Away programs. Mixed Grading",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "No prerequisites/corequisites listed",
+        "grading": "Mixed Grading"
+    },
+    {
+        "id": 4,
+        "title": "CMPE 102 - Assembly Language Programming",
+        "units": "3 unit(s)",
+        "description": "Assembly programming; assembly-C interface; CPU and memory organization; addressing modes; arithmetic, logic and branch instructions; arrays, pointers, subroutines, stack and procedure calls; software interrupts; multiplication, division and floating point arithmetic. CMPE 50  or CS 46B  (with grade of \u201cC-\u201d or better) Sophomore or upper division standing. Allowed Declared Majors: Computer Engineering, Software Engineering. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 50  or CS 46B  (with grade of \u201cC-\u201d or better) Sophomore or upper division standing. Allowed Declared Majors: Computer Engineering, Software Engineering.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 5,
+        "title": "CMPE 110 - Electronics for Computing Systems",
+        "units": "3 unit(s)",
+        "description": "RC, RL and RLC circuit analysis, diodes and diode circuits, MOSFET and bipolar transistor I-V characteristics and circuits, CMOS logic circuits, CMOS-TTL interface, sensors and signal conditioning circuits using operational amplifiers, A/D and D/A converters, electromechanical device control.",
+        "class_structure": "Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "EE 97  , EE 98  , MATH 33LA  or MATH 39  + MATH 33A  , all with a grade of \u201cC\u201d or better. Allowed Declared Majors: Computer Engineering and Software Engineering.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 6,
+        "title": "CMPE 120 - Computer Organization and Architecture",
+        "units": "3 unit(s)",
+        "description": "Introduction to computer organization and architecture, system buses, internal memory and external memory, input/output, central processing unit CPU, instruction sets, CPU structure and function, RISC, control unit. CMPE 50  or CS 46B  (with a grade of \u201cC-\u201d or better). Computer Engineering and Software Engineering Majors Only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 50  or CS 46B  (with a grade of \u201cC-\u201d or better). Computer Engineering and Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 7,
+        "title": "CMPE 124 - Digital Design I",
+        "units": "3 unit(s)",
+        "description": "Combinational and sequential logic theory and circuits. Emphasis on mixed logic and algorithmic state machines. Design projects using standard integrated circuit packages.",
+        "class_structure": "Misc/Lab: Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "EE 97  and EE 98  (both with C or better). Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 8,
+        "title": "CMPE 125 - Digital Design II",
+        "units": "3 unit(s)",
+        "description": "Digital system building blocks, data path and control units, system-level RTL design, Verilog HDL for design and verification, contemporary design flow and methodology, lab experiments using industry standard CAD tools and field programmable gate array (FPGA) devices.",
+        "class_structure": "Misc/Lab: Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "CMPE 124  (with grade of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 9,
+        "title": "CMPE 126 - Algorithms and Data Structure Design",
+        "units": "3 unit(s)",
+        "description": "Object-oriented data organization and representation as strings, arrays, stacks, queues, dequeues, lists, sets, trees, tables, and graphs. Sorting and searching and algorithm design and performance analysis.",
+        "class_structure": "Lecture 2 hours/Lab 3 hours.",
+        "prerequisites/corequisite": "ENGR 10  , CMPE 50  , and MATH 42  or MATH 42X  (all with a grade of \u201cC-\u201d or better). Allowed Declared Majors: Computer Engineering or Software Engineering.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 10,
+        "title": "CMPE 127 - Microprocessor Design I",
+        "units": "3 unit(s)",
+        "description": "Microprocessor architecture and assembly language. Design of peripheral blocks and their interfaces to the microprocessor. Design projects using standard integrated circuit packages.",
+        "class_structure": "Misc/Lab: Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "CMPE 124  with a grade of \u201cC-\u201d or better; Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 11,
+        "title": "CMPE 130 - Advanced Algorithm Design",
+        "units": "3 unit(s)",
+        "description": "Design and analysis of data structures and algorithms. Advanced tree structures, hashing, searching and sorting. Divide-and-conquer, greedy and dynamic programming algorithm design techniques. CMPE 126  , and either ISE 130  or MATH 161A  (with grades of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only. Letter Graded Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  , and either ISE 130  or MATH 161A  (with grades of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 12,
+        "title": "CMPE 131 - Software Engineering I",
+        "units": "3 unit(s)",
+        "description": "Why software engineering? What is software engineering? Software development lifecycle activities: project planning and management requirements analysis, requirement specification. Software design, software testing, verification, validation, and documentation. Software quality assurance and review techniques, software maintenance, team-based projects. CMPE major: CMPE 126  (C- or better); SE major: CS 46B  (C- or better); other majors: CMPE 30  , and MATH 32  or MATH 32H  or MATH 32X  (C- or better). Letter Graded Close Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE major: CMPE 126  (C- or better); SE major: CS 46B  (C- or better); other majors: CMPE 30  , and MATH 32  or MATH 32H  or MATH 32X  (C- or better).",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 13,
+        "title": "CMPE 132 - Information Security",
+        "units": "3 unit(s)",
+        "description": "A study of computer and network security from centralized systems to distributed networks. Cryptology, vulnerabilities and controls. Firewalls, privacy enhanced e-mail, viruses and worms. Case studies will be featured. CMPE 126  with a C- or better. Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  with a C- or better. Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 14,
+        "title": "CMPE 133 - Software Engineering II",
+        "units": "3 unit(s)",
+        "description": "Software Architecture, Software Technical Metrics, evaluating products, processes, and resources, improving predictions, products, processes, and resources. Advanced topics such as: Formal Methods, Software Reuse, Reengineering, Client/Server Software Engineering, Computer-Aided Software Engineering, Team-Based Projects. CMPE 131  with a grade of \u201cC-\u201d or better. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 131  with a grade of \u201cC-\u201d or better.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 15,
+        "title": "CMPE 135 - Object-Oriented Analysis and Design",
+        "units": "3 unit(s)",
+        "description": "Feasibility analysis and system requirements determination, object-oriented design methodology, and information systems design using object-oriented modeling techniques. Emphasis on both theoretical and practical aspects of object-oriented systems analysis and design. Team-based design project. For SE Majors: CS 46B  or for others CMPE 126  . See SJSU Catalog for detail list of prerequisites Letter Graded Cross-listed with SE 135  . Computer Engineering is responsible for scheduling. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "For SE Majors: CS 46B  or for others CMPE 126  . See SJSU Catalog for detail list of prerequisites",
+        "grading": "Letter Graded Cross-listed with . Computer Engineering is responsible for scheduling."
+    },
+    {
+        "id": 16,
+        "title": "CMPE 137 - Wireless Mobile Software Engineering",
+        "units": "3 unit(s)",
+        "description": "Mobility analysis, design principles, techniques, and methods for software systems on a variety of wireless and mobile Internet based computing and communication platforms, such as advanced pocket/tablet PCs, GPS, Bluetooth, Infrared, Wi-Fi, and RFID. Design multi-disciplined mobile project. CMPE 131  . Computer Engineering or Software Engineering Majors Only. Letter Graded Cross-listed with SE 137  . Computer Engineering is responsible for scheduling. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 131  . Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded Cross-listed with . Computer Engineering is responsible for scheduling."
+    },
+    {
+        "id": 17,
+        "title": "CMPE 138 - Database Systems I",
+        "units": "3 unit(s)",
+        "description": "File organization and storage structure, database system architecture, entity relationship model, normalization techniques, SQL, relational algebra, storage organization, query processing, and concurrency control. CMPE 126  (with a grade of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  (with a grade of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 18,
+        "title": "CMPE 139 - Fundamentals of Data Mining",
+        "units": "3 unit(s)",
+        "description": "Introduction to data management and data mining, data preprocessing, OLAP and data warehousing, frequent pattern mining and association rules, clustering, classification, web mining, web search, recommender systems, social network analysis. CMPE 126  or CS 146  (with C- or better). Computer Engineering or Software Engineering Majors Only. Letter Graded Cross-listed with SE 139  . Computer Engineering is responsible for scheduling. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  or CS 146  (with C- or better). Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded Cross-listed with . Computer Engineering is responsible for scheduling."
+    },
+    {
+        "id": 19,
+        "title": "CMPE 140 - Computer Architecture and Design",
+        "units": "3 unit(s)",
+        "description": "Pipelining and timing issues in CPU data-paths. Principles of RISC-type CPU instruction set and architecture. Structural, data and control hazards in a RISC processor, forwarding loops, branch mechanisms. Memory architectures in CPUs such as register files and caches.",
+        "class_structure": "Misc/Lab: Lecture 2 hours/lab 3 hours.",
+        "prerequisites/corequisite": "CMPE 125  (with grade of \u201cC-\u201d or better), Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 20,
+        "title": "CMPE 142 - Operating Systems Design",
+        "units": "3 unit(s)",
+        "description": "Overview: history, concepts, system calls and structures. Management of major components: processes, memory, input/output and files. Design of system calls and device drivers for hardware dependence. Concepts of kernel and shell, file protection and interactive computation. CMPE 102  , CMPE 126  (all with grades of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 102  , CMPE 126  (all with grades of \u201cC-\u201d or better). Computer Engineering or Software Engineering Majors Only. | CMPE 130  (with grade\u00a0of \u201cC-\u201d or better).",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 21,
+        "title": "CMPE 146 - Real-Time Embedded System Co-Design",
+        "units": "3 unit(s)",
+        "description": "Embedded system architecture with real-time operating system including microcontrollers, interfacing techniques for industrial applications using transducers, sensors, and A/D-D/A converters. Hardware/software integration and codesign.",
+        "class_structure": "Lecture 2 hours/Lab 3 hours.",
+        "prerequisites/corequisite": "CMPE 110  and CMPE 127  with grade of \u201cC-\u201d or better. Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 22,
+        "title": "CMPE 148 - Computer Networks I",
+        "units": "3 unit(s)",
+        "description": "Comparative evaluation of network architecture, layering model, standards, protocol examples for ISO and TCP/IP layers. Network applications, transport layer protocols, Internet routing, data link and physical transmissions. Applications in world wide web, file transfer, electronic mail, peer-to-peer and other areas. For CMPE major: CMPE 124  and CMPE 126  (with a grade of C- or better); for SE major: CMPE 120  and CS 146  (with a grade of C- or better); Computer Engineering or Software Engineering Majors Only. Letter Graded Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "For CMPE major: CMPE 124  and CMPE 126  (with a grade of C- or better); for SE major: CMPE 120  and CS 146  (with a grade of C- or better); Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 23,
+        "title": "CMPE 150 - System Architecture and Electronic Design for Robotics",
+        "units": "3 unit(s)",
+        "description": "Design and architecture for generating autonomous and human-reliant robots, algorithm development for object perception, electronic design and system integration for cognitive and sensory capabilities of robots, mechanisms for actuation and mobility, fault diagnosis and self-calibration. CMPE 110  , CMPE 124  Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 110  , CMPE 124",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 24,
+        "title": "CMPE 152 - Compiler Design",
+        "units": "3 unit(s)",
+        "description": "Principles of lexical analysis, finite state automata and parsing; issues of variable declarations, variable types, control statements, function calls, nested scopes and efficient assembler target code. CMPE 126  and CMPE 102  both with a \u201cC-\u201d or better Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  and CMPE 102  both with a \u201cC-\u201d or better",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 25,
+        "title": "CMPE 163 - Introduction to Computer Graphics and Augmented Reality",
+        "units": "3 unit(s)",
+        "description": "Introduction to 2D and 3D vector and pixel graphics, 2D and 3D transformations, world to viewer transformation pipeline, perspective projection, hidden line and surface removal, decoration algorithm and texture mapping, integration of pixel graphics and augmented reality, and hands-on laboratories. CMPE 127  ; MATH 33LA  or MATH 39  or EE 112  . All with a C- or better.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 127  ; MATH 33LA  or MATH 39  or EE 112  . All with a C- or better. | ENGR 100W  .",
+        "grading": "Letter Graded Cross-listed with . Computer Engineering is responsible for scheduling."
+    },
+    {
+        "id": 26,
+        "title": "CMPE 165 - Software Engineering Process Management",
+        "units": "3 unit(s)",
+        "description": "Integrated approach to managing development within small teams; including mission statement, synthesis of design concepts, tradeoff studies, risk assessment and the interactions encountered in the optimal design, development, manufacture and test of systems. CMPE 131  with a \u201cC-\u201d or better. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 131  with a \u201cC-\u201d or better.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 27,
+        "title": "CMPE 172 - Enterprise Software Platforms",
+        "units": "3 unit(s)",
+        "description": "Introduction to enterprise software systems. Covers network operating systems, DBMS, transaction monitors, groupware, distributed objects, system management and the Web. Covers standards such as J2EE, CORBA, SQL, JDBC, and HTTP; and emerging software technologies. CMPE 142  or CS 149  with grade of \u2018C-\u2019 or better. Computer Engineering or Software Engineering Majors Only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 142  or CS 149  with grade of \u2018C-\u2019 or better. Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 28,
+        "title": "CMPE 180 - Individual Studies",
+        "units": "1-3 unit(s)",
+        "description": "Individual work in computer engineering. Upper division standing and instructor consent. Not available to Open University Students. Credit/No Credit Cross-listed with SE 180  . Computer Engineering is responsible for scheduling. Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Upper division standing and instructor consent. Not available to Open University Students.",
+        "grading": "Credit/No Credit Cross-listed with . Computer Engineering is responsible for scheduling."
+    },
+    {
+        "id": 29,
+        "title": "CMPE 180A - Data Structures and Algorithms in C++",
+        "units": "3 unit(s)",
+        "description": "Data representation and preprocessing, proximity, finding nearest neighbors, dimensionality reduction, exploratory analysis, association Object-oriented data organization and representation as strings, arrays, stacks, queues, dequeues, lists, sets, trees, tables, and graphs. Sorting and searching and algorithm design and performance analysis. Testing methods and data are discussed. Admission into MS Artificial Intelligence, MS Computer Engineering or MS Software Engineering. Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Admission into MS Artificial Intelligence, MS Computer Engineering or MS Software Engineering.",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 30,
+        "title": "CMPE 180B - Database Systems",
+        "units": "3 unit(s)",
+        "description": "File organization and storage structure, database system architecture, entity relationship model, normalization techniques, SQL, relational algebra, storage organization, query processing, and concurrency control. Admission into MS Artificial Intelligence, MS Computer Engineering or MS Software Engineering. Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Admission into MS Artificial Intelligence, MS Computer Engineering or MS Software Engineering.",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 31,
+        "title": "CMPE 180C - Operating Systems Design",
+        "units": "3 unit(s)",
+        "description": "History, concepts, system calls and structures. Management of major components: processes, memory, input/output and files. Design of system calls and device drivers for hardware dependence. Concepts of kernel and shell, file protection and interactive computation. Admission into MS Computer Engineering or MS Software Engineering Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Admission into MS Computer Engineering or MS Software Engineering",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 32,
+        "title": "CMPE 180D - Digital Design and Microprocessors",
+        "units": "3 unit(s)",
+        "description": "Binary codes/number representations, binary arithmetic, combinatorial logic design with gates, logic minimization, decoders, encoders, adders; sequential logic design with latches, flip-flops, registers, counters, state machine design; basic microprocessor architectures (control/data paths) and memory subsystems, asynchronous logic (racing, glitches, timing diagrams). Admission into MS Computer Engineering Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Admission into MS Computer Engineering",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 33,
+        "title": "CMPE 181 - Internet of Things Platforms",
+        "units": "3 unit(s)",
+        "description": "Internet of Things (IoT) landscape, fundamentals,\u00a0architecture,\u00a0standards and protocols, software and hardware systems, security, and\u00a0data analytics. Investigate state-of-the-art IoT platforms. Develop hands-on expertise in IoT system development. For CMPE major: CMPE 124  and CMPE 126  , both with a C- or better; for SE major: CMPE 120  and CS 146  , both with a C- or better. Letter Graded Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "For CMPE major: CMPE 124  and CMPE 126  , both with a C- or better; for SE major: CMPE 120  and CS 146  , both with a C- or better.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 34,
+        "title": "CMPE 182 - Internet of Things Security",
+        "units": "3 unit(s)",
+        "description": "Secure Internet of Things (IoT) system design, vulnerabilities, attacks, and countermeasures, principles of privacy-by-design, secure IoT system development and lifecycle. Blockchains, distributed consensus,\u00a0and identity management systems for connected devices. CMPE 126  or CS 146  , with a C- or better. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  or CS 146  , with a C- or better.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 35,
+        "title": "CMPE 183 - Cryptocurrencies and Blockchains",
+        "units": "3 unit(s)",
+        "description": "Technical aspects of cryptocurrencies, blockchains, distributed consensus, and decentralized applications. Basics of Bitcoin and Ethereum including Byzantine agreement, smart contracts and solidity as well as legal aspects, regulations and token economics. CMPE 126  or CS 146  . Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  or CS 146  .",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 36,
+        "title": "CMPE 185 - Autonomous Mobile Robots",
+        "units": "3 unit(s)",
+        "description": "Basic concepts and algorithms for mobile robots that act autonomously in complex environments. Emphasis on mobile robot locomotion and kinematics, environment perception, probabilistic map-based localization and mapping, motion planning, and programming in Robot Operating System (ROS). ISE 130  or MATH 161A  ; and MATH 33LA  ; and, CMPE 126  or CS 146  . Letter Graded Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "ISE 130  or MATH 161A  ; and MATH 33LA  ; and, CMPE 126  or CS 146  .",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 37,
+        "title": "CMPE 187 - Software Quality Engineering",
+        "units": "3 unit(s)",
+        "description": "Software testing and quality assurance engineering concepts, processes, models, criteria, and methods. Software unit testing, integration, function validation, system performance and reliability evaluation; Software security testing methods and tools; software quality management, control systems, standards, and evaluation metrics. CMPE 131  with a C- or better. Computer Engineering or Software Engineering Majors Only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 131  with a C- or better. Computer Engineering or Software Engineering Majors Only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 38,
+        "title": "CMPE 188 - Machine Learning for Big Data",
+        "units": "3 unit(s)",
+        "description": "Introduction to machine learning and pattern recognition for big data analytics; machine learning concepts, theories, approaches, algorithms, and big data analytic applications; supervised learning unsupervised learning and learning theory. CMPE 126  or CS 146  Letter Graded Cross-listed with SE 188  . Computer Engineering is responsible for scheduling. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 126  or CS 146",
+        "grading": "Letter Graded Cross-listed with . Computer Engineering is responsible for scheduling."
+    },
+    {
+        "id": 39,
+        "title": "CMPE 189 - Special Topics in Computer Engineering",
+        "units": "3 unit(s)",
+        "description": "Advanced topics in Computer Engineering. Content varies from semester to semester. Instructor consent. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 40,
+        "title": "CMPE 192 - International Program Studies",
+        "units": "1 unit(s)",
+        "description": "Study Abroad and Away transfer credit course. Study Abroad and Away provides students the opportunity to study abroad on long term programs (Exchange Programs, CSU International Programs, and International Student Exchange Programs) and short-term programs (Faculty-Led Programs and Summer School Abroad Programs) for academic credit, offering Alternative Break Programs for cultural immersion, and designing other globally focused opportunities. This course is designated as a placeholder course for Study Abroad and Away programs. Mixed Grading",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "No prerequisites/corequisites listed",
+        "grading": "Mixed Grading"
+    },
+    {
+        "id": 41,
+        "title": "CMPE 195A - Senior Design Project I",
+        "units": "2 unit(s)",
+        "description": "Comprehensive plan and preliminary design of a group computer/software engineering project; integration of knowledge in science, technologies and team processes; group written report and oral presentation; global and social issues in engineering; individual professional development plans. when taken as part of CMPE major sequence. Completion of Core General Education and upper division standing are prerequisites to all SJSU studies courses. For CMPE Majors: CMPE 125\u00a0,\u00a0CMPE 127\u00a0,\u00a0CMPE 130\u00a0,\u00a0CMPE 131\u00a0\u00a0(all with a C- or better); ENGR 100W\u00a0\u00a0(with a grade of C\u00a0or better); in good academic and major standings and graduation application on file. For SE Majors: CMPE 133\u00a0,\u00a0ISE 130\u00a0\u00a0or MATH 161A\u00a0\u00a0(all with a grade of C-\u00a0or better), ENGR 100W\u00a0\u00a0(with a grade of C\u00a0or better); in good standing academic and major standings and graduation application on file.\u00a0Corequisite(s): ENGR 195A\u00a0.Grading: Letter GradedNote(s): Meets GE Areas S and V when course is taken in combination with: CMPE 195B\u00a0, ENGR 195A\u00a0\u00a0and\u00a0ENGR 195B\u00a0. Close Close Close Close Close Close Close Close Close Close Close Close Close",
+        "class_structure": "Lab 6 hours.",
+        "prerequisites/corequisite": "Completion of Core General Education and upper division standing are prerequisites to all SJSU studies courses.   For CMPE Majors: CMPE 125\u00a0,\u00a0CMPE 127\u00a0,\u00a0CMPE 130\u00a0,\u00a0CMPE 131\u00a0\u00a0(all with a C- or better); ENGR 100W\u00a0\u00a0(with a grade of C\u00a0or better); in good academic and major standings and graduation application on file.  For SE Majors: CMPE 133\u00a0,\u00a0ISE 130\u00a0\u00a0or MATH 161A\u00a0\u00a0(all with a grade of C-\u00a0or better), ENGR 100W\u00a0\u00a0(with a grade of C\u00a0or better); in good standing academic and major standings and graduation application on file.\u00a0Corequisite(s): ENGR 195A\u00a0.Grading: Letter GradedNote(s): Meets GE Areas S and V when course is taken in combination with: CMPE 195B\u00a0, ENGR 195A\u00a0\u00a0and\u00a0ENGR 195B\u00a0. Close Close Close Close Close Close Close Close Close Close Close Close Close | ENGR 195A  .",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 42,
+        "title": "CMPE 195B - Senior Design Project II",
+        "units": "3 unit(s)",
+        "description": "Implementation of group design project initiated in CMPE 195A; group oral presentation and written report; integrated global and social issues in engineering. CMPE 195A  (with grade of \u201cC\u201d or better). Juniors and Seniors only. Allowed declared majors: Computer Engineering, Engineering, Software Engineering.",
+        "class_structure": "Misc/Lab: Lab 9 hours.",
+        "prerequisites/corequisite": "CMPE 195A  (with grade of \u201cC\u201d or better). Juniors and Seniors only. Allowed declared majors: Computer Engineering, Engineering, Software Engineering. | ENGR 195B",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 43,
+        "title": "CMPE 195E - Senior Design Project I",
+        "units": "1 unit(s)",
+        "description": "Comprehensive plan and preliminary design of a group computer/software engineering project; integration of knowledge in science, technologies and team processes; group written report and oral presentation;\u00a0individual professional development plans. For CMPE Majors: CMPE 125  , CMPE 127  , CMPE 130  , CMPE 131  (all with a C- or better); ENGR 100W  (with a grade of C\u00a0or better); in good academic and major standings and graduation application on file. For SE Majors: CMPE 133  , ISE 130  or MATH 161A  (all with a grade of C-\u00a0or better), ENGR 100W (with a grade of C\u00a0or better); in good standing in the major, graduation application on file. Letter Graded Close Close Close Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "For CMPE Majors: CMPE 125  , CMPE 127  , CMPE 130  , CMPE 131  (all with a C- or better); ENGR 100W  (with a grade of C\u00a0or better); in good academic and major standings and graduation application on file. For SE Majors: CMPE 133  , ISE 130  or MATH 161A  (all with a grade of C-\u00a0or better), ENGR 100W (with a grade of C\u00a0or better); in good standing in the major, graduation application on file.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 44,
+        "title": "CMPE 195F - Senior Design Project II",
+        "units": "3 unit(s)",
+        "description": "Implementation of group design project initiated in CMPE 195E  ; group oral presentation and written report. CMPE 195A  (grade of C or better); in good academic and major standings. Letter Graded Close Close",
+        "class_structure": "Lab 9 hours.",
+        "prerequisites/corequisite": "CMPE 195A  (grade of C or better); in good academic and major standings.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 45,
+        "title": "CMPE 198 - Technology and Civilization",
+        "units": "3 unit(s)",
+        "description": "History, development, and use of technology in different cultures. Technology\u2019s impact on society, global environment, the workplace, cultural values, gender roles, and newly industrialized countries of the world. Completion of Core General Education and upper division standing are prerequisites to all SJSU studies courses. Completion of, or co-registration in, 100W is strongly recommended. Letter Graded Cross-listed with ENGR 198  / ME 198  / TECH 198  . Technology is responsible for scheduling. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Completion of Core General Education and upper division standing are prerequisites to all SJSU studies courses. Completion of, or co-registration in, 100W is strongly recommended.",
+        "grading": "Letter Graded Cross-listed with / / . Technology is responsible for scheduling."
+    },
+    {
+        "id": 46,
+        "title": "CMPE 200 - Computer Architecture",
+        "units": "3 unit(s)",
+        "description": "Computer design overview, processor instruction set architecture and microarchitecture, instruction-level parallelism, memory hierarchy, storage and I/O systems, multicore/multiprocessor and data/thread-level parallelism, introduction to parallel programming. CMPE 180D  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180D  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 47,
+        "title": "CMPE 202 - Software Systems Engineering",
+        "units": "3 unit(s)",
+        "description": "Integrated approach to software design and development including requirements elicitation and analysis, system design and construction through studying multiple facets of software development processes, design methodologies, modeling approaches, and implementation techniques. Classified graduate standing or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 48,
+        "title": "CMPE 206 - Computer Network Design",
+        "units": "3 unit(s)",
+        "description": "Network topology and queuing theory. The seven layers of the ISO reference model: physical, data link, network, transport, session, presentation and application. Example networks. Network design project. Classified standing, or instructor consent.\u00a0Allowed Declared Majors:\u00a0Artificial Intelligence,\u00a0Computer Engineering or Software Engineering majors only. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified standing, or instructor consent.\u00a0Allowed Declared Majors:\u00a0Artificial Intelligence,\u00a0Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 49,
+        "title": "CMPE 207 - Network Programming and Application",
+        "units": "3 unit(s)",
+        "description": "Development and implementation of networking software for building distributed applications. Application Programming Interfaces: BSD Sockets, Winsock, Remote Procedure Call and Middleware. Network programming project. CMPE 206  , or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 206  , or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 50,
+        "title": "CMPE 208 - Network Architecture and Protocols",
+        "units": "3 unit(s)",
+        "description": "In-depth study of the principles and architecture of Internet protocols in current practice. Analysis of protocols of network, transport, and application layers. Topics will also cover emerging network architecture and protocols. Network analysis project.. CMPE 206  or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 206  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 51,
+        "title": "CMPE 209 - Network Security and Applications",
+        "units": "3 unit(s)",
+        "description": "Network security protocols and applications, cryptography algorithms, authentication systems, intrusion detection and response systems, network attacks and defenses, system security including malware analysis, and building of secure systems. CMPE 206  , EE 281  , or instructor consent. Computer Engineering or Software Engineering or Artificial Intelligence or Electrical Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 206  , EE 281  , or instructor consent. Computer Engineering or Software Engineering or Artificial Intelligence or Electrical Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 52,
+        "title": "CMPE 210 - Software-defined Networks and Network Functions Virtualization",
+        "units": "3 unit(s)",
+        "description": "The course covers development and implementation of Software-defined Networks and Network Functions Virtualization for building programmable network applications. It includes their concepts with various use cases. Students conduct a network programming project related to SDN/NFV by using open source projects. CMPE 206  (or equivalent graduate network courses) or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 206  (or equivalent graduate network courses) or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 53,
+        "title": "CMPE 211 - Advanced Network Security in IoT",
+        "units": "3 unit(s)",
+        "description": "Advanced security topics in the Internet of things (IoT). SDN/NFV(Software Defined Networking and Network Function Virtualization) and blockchain to defend against IoT attacks and protect IoT infrastructure. Network security protocols and applications, intrusion detection, network attacks and defenses, and system-level security issues. CMPE 206  or Instructor Consent Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 206  or Instructor Consent",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 54,
+        "title": "CMPE 212 - System Verification",
+        "units": "3 unit(s)",
+        "description": "Introduction to SoC system configuration and integration; on chip protocols; assertion based verification; code and functional coverage metrics; methodologies, tools, and environments for functional verification of special function blocks (IPs) and integrated SoC-based computer systems. CMPE 200  and CMPE 264  or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 200  and CMPE 264  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 55,
+        "title": "CMPE 213 - Parallel Computing",
+        "units": "3 unit(s)",
+        "description": "How to effectively program parallel computers, from smartphones to large clusters. Types of parallel architectures, routing, communication operations, parallel programming models, performance analysis, parallel algorithms for sparse matrix and graph problems, load balancing, advanced topics. Applications to Big Data Analytics. Classified graduate standing or instructor consent Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing or instructor consent",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 56,
+        "title": "CMPE 214 - GPU Architecture and Programming",
+        "units": "3 unit(s)",
+        "description": "Explores state-of-the-art parallel architecture and various parallel programming techniques. Investigate the architectural difference between CPU and various parallel architectures including GPU, programming basics of parallel platforms such as CUDA, optimization and debugging techniques. CMPE 140  or CMPE 200  Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 140  or CMPE 200",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 57,
+        "title": "CMPE 217 - Human AI Interaction",
+        "units": "3 unit(s)",
+        "description": "Intention, joint intention and action, artificial agency, autonomy, shared autonomy, different types of collaboration, teleoperation, team work, human feedback, assistance, inference, trajectory optimization, inverse reinforcement learning, learning from feedback. Classified graduate standing or instructor consent. Computer Engineering and/or software engineering and/or AI majors only. Letter Graded.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing or instructor consent. Computer Engineering and/or software engineering and/or AI majors only.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 58,
+        "title": "CMPE 219 - Cybersecurity Clinics with HCI",
+        "units": "3 unit(s)",
+        "description": "Design, evaluation, and implementation of interactive computing systems for human use in order to develop a cybersecurity solution. The interdisciplinary area between Human-Computer Interaction and cybersecurity: common vulnerabilities, explainable AI, human-centered security design concepts, social and ethical issues, and Internet of Things. Classified graduate standing or instructor consent. Letter Graded.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing or instructor consent.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 59,
+        "title": "CMPE 220 - System Software",
+        "units": "3 unit(s)",
+        "description": "System software overview, assemblers, macro-assemblers, loaders and linkers, compilers and operating systems. Design project. CMPE 180A  and CMPE 180C  , or classified standing. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  and CMPE 180C  , or classified standing. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 60,
+        "title": "CMPE 226 - Database Systems",
+        "units": "3 unit(s)",
+        "description": "Database architectures, technologies, and practices for enterprise systems that use structured, semi-structured, and unstructured data. Provides opportunities to research and acquire experience using modern and emerging concepts in relational and non-relational database theory and technologies. CMPE 272  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 272  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 61,
+        "title": "CMPE 235 - Mobile Software System Design",
+        "units": "3 unit(s)",
+        "description": "Study of wireless-based software systems in design and engineering, underlying networks, infrastructures and frameworks, wireless security, mobile user security & privacy (i.e. biometric security), emergent mobile programming platforms and technologies (such as RFID/Barcode/NFC), mobile commerce and service application systems. CMPE 220  or CMPE 202  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 220  or CMPE 202  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 62,
+        "title": "CMPE 240 - Advanced Computer Design",
+        "units": "3 unit(s)",
+        "description": "Architecture of a computing system including system bus, memory subsystems and peripherals. Unidirectional and bidirectional bus architectures. SRAM, SDRAM and FLASH memories. Design of DMA, interrupt controller, transmitter/receiver, timer, display adapter, A/D and D/A converters and other system peripherals. Design of memory and peripheral bus interfaces. CMPE 180D  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180D  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 63,
+        "title": "CMPE 242 - Embedded Hardware Design",
+        "units": "3 unit(s)",
+        "description": "Advanced topics dealing with microprocessor and microcontroller hardware and firmware including processor architecture, advanced memory and I/O systems design, multilevel bus architecture, interrupt systems. Design project. CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 64,
+        "title": "CMPE 243 - Embedded Systems Applications",
+        "units": "3 unit(s)",
+        "description": "Embedded system interfacing techniques; peripheral devices; discussion of industrial, telecommunication, automotive, medical, and consumer applications of embedded systems. Design project. CMPE 180A  and CMPE 180D  , classified standing, or instructor consent.\u00a0Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  and CMPE 180D  , classified standing, or instructor consent.\u00a0Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 65,
+        "title": "CMPE 244 - Embedded Software",
+        "units": "3 unit(s)",
+        "description": "Experiments dealing with advanced embedded software programming concepts, interfacing techniques, hardware organization, and software development using embedded systems. Individual projects. CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 66,
+        "title": "CMPE 245 - Embedded Wireless Architecture",
+        "units": "3 unit(s)",
+        "description": "Embedded wireless architecture with basic communication protocols and\u00a0hands-on labs with state of the art embedded system development tools. CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 67,
+        "title": "CMPE 246 - Interface Design in Embedded Systems",
+        "units": "3 unit(s)",
+        "description": "Oscillator configuration, parallel and serial I/O port initialization and interface building techniques with Microchip DSP microcontrollers. Integration of external memory blocks, MEMS sensors, MEMS microphone, ADC, DAC and image recognition camera to achieve a specific system functionality. Servo motor, stepper motor and brushless motor interface designs and control. Design specification and development with Microchip MPLABX design tools. CMPE 180A  and CMPE 180D  , classified standing, or instructor consent. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  and CMPE 180D  , classified standing, or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 68,
+        "title": "CMPE 249 - Intelligent Autonomous Systems",
+        "units": "3 unit(s)",
+        "description": "Introduction to autonomous systems and intelligent solutions for self-driving cars, advanced topics in multi-modal sensing, sensor fusion, AI computing, mapping, deep learning, object detection, perception, localization, prediction, path planning, control, reinforcement learning, and Robotic Operating System (ROS). CMPE 252  or CMPE 257  or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 252  or CMPE 257  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 69,
+        "title": "CMPE 252 - Artificial Intelligence and Data Engineering",
+        "units": "3 unit(s)",
+        "description": "Introduction to important concepts and techniques from the fields of artificial intelligence,\u00a0evolution of AI systems,\u00a0intelligent agents,\u00a0problem solving by searching, machine learning, neural networks, reinforcement learning, and knowledge representation. The data engineering and science process is covered as well as applications of AI and ethical considerations. Classified graduate standing. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 70,
+        "title": "CMPE 255 - Data Mining",
+        "units": "3 unit(s)",
+        "description": "Data representation and preprocessing, proximity, finding nearest neighbors, dimensionality reduction, exploratory analysis, association analysis and sequential patterns, supervised learning: model selection and evaluation, overfitting, clustering, advanced topics. CMPE 180A  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 71,
+        "title": "CMPE 256 - Advanced Data Mining",
+        "units": "3 unit(s)",
+        "description": "Data mining and machine learning algorithms and applications for big\u00a0data. Recommender systems, ranking and evaluation, graph mining, social network analysis, sentiment analysis, advanced topics. CMPE 180A  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 72,
+        "title": "CMPE 257 - Machine Learning",
+        "units": "3 unit(s)",
+        "description": "Machine learning concepts, feasibility and learning types, theory of generalization, bias and variance, linear models for classification and regression, nonlinear transformation, regularization and validation, kernel methods, radial basis functions, support vector machines, ensemble methods, neural networks, and hands-on projects. CMPE 180A  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 180A  , classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 73,
+        "title": "CMPE 258 - Deep Learning",
+        "units": "3 unit(s)",
+        "description": "Deep neural networks and their applications to various problems, e.g., speech recognition, image segmentation, and natural language processing. Covers underlying theory, the range of applications to which it has been applied, and learning from very large data sets. CMPE 255  or CMPE 257  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 255  or CMPE 257  or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 74,
+        "title": "CMPE 259 - Natural Language Processing",
+        "units": "3 unit(s)",
+        "description": "Theory, design, and implementation of Natural Language Processing (NLP) systems. Topics include language representation and modeling, sequence modeling, Hidden Markov Models, probabilistic context-free grammars, Bayesian networks, Conditional Random Fields, and deep learning architectures for sequence processing. CMPE 252  or CMPE 255  or CMPE 257  , or instructor consent.\u00a0Artificial Intelligence, Computer Engineering, and Software Engineering Master\u2019s students only. Letter graded. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 252  or CMPE 255  or CMPE 257  , or instructor consent.\u00a0Artificial Intelligence, Computer Engineering, and Software Engineering Master\u2019s students only.",
+        "grading": "Letter graded."
+    },
+    {
+        "id": 75,
+        "title": "CMPE 260 - Reinforcement Learning",
+        "units": "3 unit(s)",
+        "description": "Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL). Topics include RL formalism, Markov decision process, Deep Q-Network, and reinforcement learning programming platforms. Also covered are relevant applications of RL in various fields. CMPE 252  or CMPE 255  or CMPE 257  or instructor consent. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 252  or CMPE 255  or CMPE 257  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 76,
+        "title": "CMPE 264 - Advanced Digital and Computing System Design",
+        "units": "3 unit(s)",
+        "description": "Advanced topics in register-transfer-level design of complex digital functional blocks, application-specific instruction set processors, and system-level integration/validation using Verilog/VHDL/C-level hardware description languages. CMPE 200  or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 200  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 77,
+        "title": "CMPE 265 - High Speed Digital System Design",
+        "units": "3 unit(s)",
+        "description": "Introduction to high speed interface design techniques and analyzing high speed circuits utilizing latest modeling and simulation tools to provide necessary knowledge for the printed circuit board layout. CMPE 200  or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 200  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 78,
+        "title": "CMPE 266 - Big Data Engineering and Analytics",
+        "units": "3 unit(s)",
+        "description": "New big data related technologies, architecture, tool, algorithms and analytics to manage and extract values and hidden knowledge from data whose scale, diversity, speed and complexity are big. CMPE 272  or Instructor Consent Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 272  or Instructor Consent",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 79,
+        "title": "CMPE 270 - Information Engineering",
+        "units": "3 unit(s)",
+        "description": "Technologies, strategies and systems for planning, analyzing, designing and implementing data resources in order to ensure and continuously improve processes in the enterprise; object-oriented development, Computer-Aided Software/Systems Engineering (CASE); information superhighway, client/server computing and distributed database management systems. CMPE 30  or instructor consent. Allowed Declared Majors: Any Engineering. Letter Graded This course satisfies graduate-level GWAR in this master\u2019s program. Cross-listed with ISE 270  . Industrial and Systems Engineering is responsible for scheduling. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 30  or instructor consent. Allowed Declared Majors: Any Engineering.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 80,
+        "title": "CMPE 272 - Enterprise Software Platforms",
+        "units": "3 unit(s)",
+        "description": "Enterprise software, system and virtualized platforms. OSs, NOS, security, databases (OLTP, big data, analytics), transactions, groupware, components, web services, web, systems management, and app development. Standards and emerging technologies. Artificial Intelligence or Computer Engineering or Software Engineering majors\u00a0or instructor consent. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Artificial Intelligence or Computer Engineering or Software Engineering majors\u00a0or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 81,
+        "title": "CMPE 273 - Enterprise Distributed Systems",
+        "units": "3 unit(s)",
+        "description": "Introduction to application protocols for large scale distributed systems including object request brokers, asynchronous messaging, and Web services. Lab is based on using protocols to build distributed systems. Java programming or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Java programming or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only. | CMPE 272",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 82,
+        "title": "CMPE 274 - Business Intelligence Technologies",
+        "units": "3 unit(s)",
+        "description": "This course covers technologies that are key to delivering business intelligence to an enterprise. The goal of business intelligence is to analyze and mine business data to understand and improve business performance by transforming business data into information into knowledge. CMPE 272  or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 272  or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 83,
+        "title": "CMPE 275 - Enterprise Application Development",
+        "units": "3 unit(s)",
+        "description": "Distributed component design, scalability, messaging, and integration practices for modern and emerging architectures and technologies. CMPE 273  or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 273  or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 84,
+        "title": "CMPE 277 - Smartphone Application Development",
+        "units": "3 unit(s)",
+        "description": "Architectures, technologies, and programming concepts for developing smartphone applications. Covers current smartphone/tablet OSs, application development, and deployment environments. Classified graduate standing or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 85,
+        "title": "CMPE 279 - Software Security Technologies",
+        "units": "3 unit(s)",
+        "description": "Fundamental concepts, methods, and tools used to design and implement software security technologies for constructing trustworthy centralized, distributed, or enterprise-wide software systems. CMPE 272  or CMPE 220  or instructor consent. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 272  or CMPE 220  or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 86,
+        "title": "CMPE 280 - Web UI Design and Development",
+        "units": "3 unit(s)",
+        "description": "Web User-interface (UI) design and development with contemporary web standards. Understand interaction and interface design principles and processes for rich web applications, mobile web, web graphics, web design fundamentals, tools, interaction using client side scripting and server side frameworks. Classified graduate standing or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified graduate standing or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 87,
+        "title": "CMPE 281 - Cloud Technologies",
+        "units": "3 unit(s)",
+        "description": "Cloud computing concepts, evolution, architectures, infrastructures, opportunities, risks, enterprise adoption strategies, standards and policies, Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), Infrastructure-as-a-Service (IaaS), modern cloud computing technologies and tools, case studies and team projects. CMPE 272  or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 272  or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 88,
+        "title": "CMPE 282 - Cloud Services",
+        "units": "3 unit(s)",
+        "description": "Cloud service architecture and layering, administrative issues, resiliency and security considerations; business development, operations and business support service, case studies and team projects. CMPE 281  or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 281  or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 89,
+        "title": "CMPE 283 - Virtualization Technologies",
+        "units": "3 unit(s)",
+        "description": "Virtualization concepts, components and infrastructure, hardware and software virtualization, virtualization machine life cycle management, virtualization services, case studies, and team projects. CMPE 272  or instructor consent.\u00a0Computer Engineering and Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 272  or instructor consent.\u00a0Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 90,
+        "title": "CMPE 284 - Storage and Network Virtualization",
+        "units": "3 unit(s)",
+        "description": "Network and storage technologies, network virtualization and storage virtualization, including virtual local area networks, load balancers, firewalls, virtual private networks, network attached storage and storage area networks, case studies, and team projects. CMPE 283  or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 283  or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 91,
+        "title": "CMPE 285 - Software Engineering Processes",
+        "units": "3 unit(s)",
+        "description": "Software system development with emerging software engineering processes and technologies; planned and agile development processes, processes of Service-Oriented Architecture; component-based, Web-based, mobile based, event programming, wireless, user interface, and database access technologies. CMPE 202  or CMPE 220  or instructor consent. Computer Engineering and Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 202  or CMPE 220  or instructor consent. Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 92,
+        "title": "CMPE 286 - Internet of Things",
+        "units": "3 unit(s)",
+        "description": "Designed to give an overview of Internet of Things (IoT) as well as associated foundations including model layers, key performance characteristics, key requirements for communication over the Internet, sensing technologies, constrained devices, protocol stacks, and the IoT service platform. MSSE graduate standing or instructor consent. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "MSSE graduate standing or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 93,
+        "title": "CMPE 287 - Software Quality Assurance and Testing",
+        "units": "3 unit(s)",
+        "description": "Software testing concepts, processes, models, criteria, and methods; software unit testing, integration, function validation, system performance measurement, and reliability evaluation; software security testing methods, assurance criteria, and validation tools; software security assurance process, standards, techniques, and case study. CMPE 202  or CMPE 220  or instructor consent.\u00a0Computer Engineering and Software Engineering majors only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 202  or CMPE 220  or instructor consent.\u00a0Computer Engineering and Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 94,
+        "title": "CMPE 292 - International Program Studies",
+        "units": "1-9 unit(s)",
+        "description": "Study Abroad and Away transfer credit course. Study Abroad and Away provides students the opportunity to study abroad on long term programs (Exchange Programs, CSU International Programs, and International Student Exchange Programs) and short-term programs (Faculty-Led Programs and Summer School Abroad Programs) for academic credit, offering Alternative Break Programs for cultural immersion, and designing other globally focused opportunities. This course is designated as a placeholder course for Study Abroad and Away programs. Mixed Grading",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "No prerequisites/corequisites listed",
+        "grading": "Mixed Grading"
+    },
+    {
+        "id": 95,
+        "title": "CMPE 294 - Computer Engineering Seminar",
+        "units": "3 unit(s)",
+        "description": "Provides graduate students with a background to conduct research, write proposals and present results in oral and written form. Instructor consent. Letter Graded This course satisfies graduate-level GWAR in this master\u2019s program.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 96,
+        "title": "CMPE 294A - Cyber Security Seminar",
+        "units": "3 unit(s)",
+        "description": "Provides graduate students with the background and capability to conduct research and write technical reports in the area of cyber security Instructor consent Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Instructor consent",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 97,
+        "title": "CMPE 295A - Master Project I",
+        "units": "3 unit(s)",
+        "description": "Comprehensive plan and preliminary design of a computer/software engineering project; integration of knowledge in technologies, processes and management to support program outcomes. Classified status, good standing, completion of at least 15 units of graduation degree credit, completion of two degree core courses and at least one specialization course, and graduate director consent. Letter Graded/Incomplete.",
+        "class_structure": "Lab 9 hours.",
+        "prerequisites/corequisite": "Classified status, good standing, completion of at least 15 units of graduation degree credit, completion of two degree core courses and at least one specialization course, and graduate director consent.",
+        "grading": "Letter Graded/Incomplete."
+    },
+    {
+        "id": 98,
+        "title": "CMPE 295B - Master Project II",
+        "units": "3 unit(s)",
+        "description": "Completion of an in-depth project to achieve the program outcomes and satisfy the cumulating experience; write a detailed project report; make a comprehensive presentation and demonstration. CMPE 295A  (with a B or better) or CMPE 295W  (with a B or better), completion of all degree core courses and two specialization courses from the same specialization, advancement to candidacy, and graduate director consent. Letter Graded/RP. Close Close",
+        "class_structure": "Lab 9 hours.",
+        "prerequisites/corequisite": "CMPE 295A  (with a B or better) or CMPE 295W  (with a B or better), completion of all degree core courses and two specialization courses from the same specialization, advancement to candidacy, and graduate director consent.",
+        "grading": "Letter Graded/RP."
+    },
+    {
+        "id": 99,
+        "title": "CMPE 295W - Master\u2019s Project",
+        "units": "3 unit(s)",
+        "description": "In-depth developmental engineering work relating to problems of interest. Project includes proposal formulation, analysis, design, implementation, and testing. Completed degree and specialization core requirements, classified status, in good standing and graduate advisor consent. Letter Graded This course satisfies graduate-level GWAR in this master\u2019s program.",
+        "class_structure": "9 hours lab.",
+        "prerequisites/corequisite": "Completed degree and specialization core requirements, classified status, in good standing and graduate advisor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 100,
+        "title": "CMPE 297 - Special Topics in Computer/Software Engineering",
+        "units": "3 unit(s)",
+        "description": "Special topics to augment regularly-scheduled graduate courses. May be taken up to three times in different topic areas.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 101,
+        "title": "CMPE 298 - Special Problems",
+        "units": "1-6 unit(s)",
+        "description": "Advanced individual work in computer engineering. Instructor consent. Not available to Open University Students. Mandatory Credit/No Credit/RP",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Instructor consent. Not available to Open University Students.",
+        "grading": "Mandatory Credit/No Credit/RP"
+    },
+    {
+        "id": 102,
+        "title": "CMPE 298I - Computer/Software Engineering Internship",
+        "units": "1-6 unit(s)",
+        "description": "Field work for computer and software engineering graduate students. A report is required at the end of the semester addressing the goals set at the start of the assignment. Completed 6 units degree core plus six additional degree program units, classified status, in good standing and graduate advisor consent Mandatory Credit/No Credit/RP",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Completed 6 units degree core plus six additional degree program units, classified status, in good standing and graduate advisor consent",
+        "grading": "Mandatory Credit/No Credit/RP"
+    },
+    {
+        "id": 103,
+        "title": "CMPE 299A - Master Thesis I",
+        "units": "3 unit(s)",
+        "description": "The first part of a thesis culminating the work for the master\u2019s degree in the specialization. Classified status, good standing, completion of at least 15 units of graduation degree credit, two core courses, and at least one specialization course; and graduate director consent. Credit/No Credit/RP.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Classified status, good standing, completion of at least 15 units of graduation degree credit, two core courses, and at least one specialization course; and graduate director consent.",
+        "grading": "Credit/No Credit/RP."
+    },
+    {
+        "id": 104,
+        "title": "CMPE 299B - Master Thesis II",
+        "units": "3 unit(s)",
+        "description": "The second part of a thesis culminating the work for the master\u2019s degree in the specialization. CMPE 299A  with a CR grade or CMPE 295W  with a B or better, completion of all core courses and two specialization courses, advancement to candidacy, and graduate director consent. Credit/No Credit/RP. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CMPE 299A  with a CR grade or CMPE 295W  with a B or better, completion of all core courses and two specialization courses, advancement to candidacy, and graduate director consent.",
+        "grading": "Credit/No Credit/RP."
+    },
+    {
+        "id": 105,
+        "title": "CS 22A - Python for Everyone",
+        "units": "3 unit(s)",
+        "description": "Introduction to Python programming in interesting, relevant, and practical contexts. Programming skills are developed to solve problems in such fields as life sciences, mathematics, and business. Fundamental programming constructs: data structures and algorithms, iterations, and functions.\u00a0Course is intended for students who have no prior programming experience. CS 1022AS  is required for Math Enrollment Category\u00a0M-III and\u00a0M-IV. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 1022AS  is required for Math Enrollment Category\u00a0M-III and\u00a0M-IV.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 106,
+        "title": "CS 22B - Python Programming for Data Analysis",
+        "units": "3 unit(s)",
+        "description": "Hands-on Python programming skills for data analysis. Skills include finding a solution for a given problem and\u00a0casting it\u00a0as an algorithm, translating an algorithm to executable code, and debugging and testing code. Applications focus on computational techniques to understand, analyze, and visualize data. CS 22A  with a grade of C- or better, or consent of the instructor;\u00a0Allowed Majors: Data Science, Biology (all) or Chemistry (all). Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 22A  with a grade of C- or better, or consent of the instructor;\u00a0Allowed Majors: Data Science, Biology (all) or Chemistry (all).",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 107,
+        "title": "CS 25 - The Digital World and Society",
+        "units": "3 unit(s)",
+        "description": "The secure, effective and ethical use of information technology. The effect of such technology on people and institutions. Technology-related challenges to society and policy. Frameworks for the analysis of information technology with respect to its cultural, historical, environmental, and spatial contexts. Letter Graded. Cross-listed with ENGR 25  . General Engineering is responsible for scheduling. Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "No prerequisites/corequisites listed",
+        "grading": "Letter Graded. Cross-listed with . General Engineering is responsible for scheduling."
+    },
+    {
+        "id": 108,
+        "title": "CS 42 - Discrete Mathematics",
+        "units": "3 unit(s)",
+        "description": "Sets, logic, methods of proof including mathematical induction, functions, relations, elementary combinatorics, probability, Boolean algebras. Math Enrollment Category M-I or M-II and satisfactory score on the Precalculus Proficiency Assessment ; AP Calculus AB score 4 to 5, AP Calculus BC score 4 to 5, or AP Pre-Calculus score 4 to 5 to waive the exam; MATH 19  with a grade of \u201cB\u201d or better to waive the exam; or MATH 18A  and MATH 18B  , with a grade of \u201cB\u201d or better in each to waive the\u00a0exam. Letter Graded. Students who are repeating MATH 42  and MATH 42X  are not eligible for this class and must take MATH 42X  . Cross-listed with MATH 42  . Mathematics and Statistics is responsible for scheduling. Close Close Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Math Enrollment Category M-I or M-II and satisfactory score on the Precalculus Proficiency Assessment ; AP Calculus AB score 4 to 5, AP Calculus BC score 4 to 5, or AP Pre-Calculus score 4 to 5 to waive the exam; MATH 19  with a grade of \u201cB\u201d or better to waive the exam; or MATH 18A  and MATH 18B  , with a grade of \u201cB\u201d or better in each to waive the\u00a0exam.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 109,
+        "title": "CS 42X - Discrete Mathematics",
+        "units": "3 unit(s)",
+        "description": "Sets, logic, methods of proof including mathematical induction, functions, relations, elementary combinatorics, probability, Boolean algebras. Math Enrollment Category M-I,\u00a0M-II, M-III and satisfactory score on the Precalculus Proficiency Assessment ; AP Calculus AB score 3\u00a0to 5, AP Calculus BC score 3\u00a0to 5, or AP Pre-Calculus score 3\u00a0to 5 to waive the exam; MATH 19  with a grade of C- or better to waive the exam; or MATH 18A  and MATH 18B  with a grade of C- or better in each to waive the exam.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Math Enrollment Category M-I,\u00a0M-II, M-III and satisfactory score on the Precalculus Proficiency Assessment ; AP Calculus AB score 3\u00a0to 5, AP Calculus BC score 3\u00a0to 5, or AP Pre-Calculus score 3\u00a0to 5 to waive the exam; MATH 19  with a grade of C- or better to waive the exam; or MATH 18A  and MATH 18B  with a grade of C- or better in each to waive the exam. | MATH 42W  .",
+        "grading": "Letter Graded. Cross-listed with . Mathematics and Statistics is responsible for scheduling."
+    },
+    {
+        "id": 110,
+        "title": "CS 46A - Introduction to Programming",
+        "units": "4 unit(s)",
+        "description": "Introduction to programming for anyone new to the field or who needs a refresher with basic Java programming syntax, object-oriented paradigm, control structures, iteration, etc. Hands-on activities in writing, compiling, executing, and debugging programs for solving real-world problems.",
+        "class_structure": "Lecture 3 hours/lab 3 hours.",
+        "prerequisites/corequisite": "Math Enrollment Category M-I, M-II, or M-III, or MATH 1  with a grade of C- or better; and a major of Computer Science, Data Science, Computer Science and Linguistics,\u00a0Mathematics, Statistics,\u00a0Applied and Computational Math, Software Engineering, Forensic Science: Digital Evidence, or Undeclared; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 111,
+        "title": "CS 46AW - Introduction to Programming Workshop",
+        "units": "1 unit(s)",
+        "description": "Designed to help all students excel in Introduction to Programming. Students work in groups on challenging problems to help them understand programming concepts more deeply and lay the groundwork for success in future courses.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46A  (in an object-oriented language) or CS 46AX  , or current enrollment in CS 46AX  .",
+        "grading": "Credit/No Credit."
+    },
+    {
+        "id": 112,
+        "title": "CS 46AX - Introduction to Programming",
+        "units": "4 unit(s)",
+        "description": "Introduction to programming for anyone new to the field or who needs a refresher with basic Java programming syntax, object-oriented paradigm, control structures, iteration, etc. Hands-on activities in writing, compiling, executing, and debugging programs for solving real-world problems. Math Enrollment Category M-I, M-II, or M-III, or MATH 1  with a grade of C- or better; and a major of Computer Science, Data Science, Computer Science and Linguistics,\u00a0Mathematics, Statistics,\u00a0Applied and Computational Math,\u00a0Software Engineering, Forensic Science: Digital Evidence, or Undeclared; or instructor consent.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Math Enrollment Category M-I, M-II, or M-III, or MATH 1  with a grade of C- or better; and a major of Computer Science, Data Science, Computer Science and Linguistics,\u00a0Mathematics, Statistics,\u00a0Applied and Computational Math,\u00a0Software Engineering, Forensic Science: Digital Evidence, or Undeclared; or instructor consent. | CS 46AW  .",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 113,
+        "title": "CS 46B - Introduction to Data Structures",
+        "units": "4 unit(s)",
+        "description": "Fundamental data structures including lists, stacks, queues, and trees, with algorithms for inserting, deleting, searching, and sorting information within them efficiently. Additional topics include Big-O analysis, exceptions, hashing, Java collections framework, generics, iterators, interfaces, recursion, and debugging. Weekly hands-on activities.",
+        "class_structure": "Lecture 3 hours/lab 3 hours.",
+        "prerequisites/corequisite": "CS 46A  or CS 46AX  (with grade of C- or better). (If CS 46A  was not in Java, then CS 46AW  also required.)\u00a0Math Enrollment Category M-I or M-II and satisfactory score on the Precalculus Proficiency Assessment (70 or higher), or MATH 19  with a C- or better, or MATH 18A  and MATH 18B  with C- or better;\u00a0Allowed Majors: Computer Science, Data Science, Computer Science and Linguistics, Stats, Applied/Computational Math, Software Engineering or Forensic Science: Digital Evidence.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 114,
+        "title": "CS 47 - Introduction to Computer Systems",
+        "units": "3 unit(s)",
+        "description": "Instruction sets, assembly language and assemblers, linkers and loaders, data representation and manipulation, interrupts, pointers, function calls, argument passing, and basic gate-level digital logic design. CS 42  / MATH 42  or CS 42X  / MATH 42X  , and CS 46B  (with a grade of \u201cC-\u201d or better);Allowed Majors: Computer Science, Data Science, Forensic Science: Digital Evidence. Letter Graded. Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 42  / MATH 42  or CS 42X  / MATH 42X  , and CS 46B  (with a grade of \u201cC-\u201d or better);Allowed Majors: Computer Science, Data Science, Forensic Science: Digital Evidence.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 115,
+        "title": "CS 48 - Applied Algorithms",
+        "units": "1 unit(s)",
+        "description": "Creating and implementing algorithms to solve problems. Techniques covered include using built-in collection classes, bitwise operators, modulo operator, and input/output classes. Emphasis on using data structures learned in CS 46B. Students write a Java program every week. CS 46B  and one Java course (with grades of C- or better), or instructor consent. Letter Graded. Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46B  and one Java course (with grades of C- or better), or instructor consent.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 116,
+        "title": "CS 49C - Programming in C",
+        "units": "3 unit(s)",
+        "description": "Beginning course in the C language. Previous programming experience and completion of math GE;\u00a0Allowed Majors: Computer Science, Math, Math ITEP or Forensic Science: Digital Evidence. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Previous programming experience and completion of math GE;\u00a0Allowed Majors: Computer Science, Math, Math ITEP or Forensic Science: Digital Evidence.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 117,
+        "title": "CS 49J - Programming in Java",
+        "units": "3 unit(s)",
+        "description": "Introduction to the Java programming language and libraries. Topics include fundamental data types and control structures, object-oriented programming, string processing, input/output, and error handling. Use of Java libraries for mathematics, graphics, collections, and for user interfaces. CS 46B  or equivalent in a language other than Java;\u00a0Allowed Majors: Computer Science, Data Science, Math, Math ITEP, Stats, Applied/Computational Math, Software Engineering, Forensic Science: Digital Evidence, or Undeclared. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46B  or equivalent in a language other than Java;\u00a0Allowed Majors: Computer Science, Data Science, Math, Math ITEP, Stats, Applied/Computational Math, Software Engineering, Forensic Science: Digital Evidence, or Undeclared.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 118,
+        "title": "CS 50 - Scientific Computing I",
+        "units": "2 unit(s)",
+        "description": "Computer systems and structured programming, emphasizing solutions of problems in the atmospheric sciences using Python programming. Includes the UNIX operating system, mass data handling and data visualization.",
+        "class_structure": "Lecture 1 hour/Lab 3 hours.",
+        "prerequisites/corequisite": "MATH 30  or MATH 30X  . | For METR majors: MATH 31  or MATH 30X  , METR 60  , PHYS 50  . For Climate Science majors: METR 60  and CHEM 1A  .",
+        "grading": "Letter Graded Cross-listed with / . Meteorology and Climate Science is responsible for scheduling."
+    },
+    {
+        "id": 119,
+        "title": "CS 85A - Practical Computing Topics",
+        "units": "1 unit(s)",
+        "description": "Computing topics of current interest in industrial practice. Emphasis on effective use and integration of software/hardware. Different topics may be offered at different times in a short-course lecture/lab format.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Varies with topic",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 120,
+        "title": "CS 85C - Practical Computing Topics",
+        "units": "3 unit(s)",
+        "description": "Computing topics of current interest in industrial practice. Emphasis on effective use and integration of software/hardware. Different topics may be offered at different times in a short-course lecture/lab format. Different versions of this course may be repeated for credit. Additional Varies with topic",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Additional Varies with topic | eligibility for MATH 19",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 121,
+        "title": "CS 92 - International Program Studies",
+        "units": "1-6 unit(s)",
+        "description": "Study Abroad and Away transfer credit course. Study Abroad and Away provides students the opportunity to study abroad on long term programs (Exchange Programs, CSU International Programs, and International Student Exchange Programs) and short-term programs (Faculty-Led Programs and Summer School Abroad Programs) for academic credit, offering Alternative Break Programs for cultural immersion, and designing other globally focused opportunities. This course is designated as a placeholder course for Study Abroad and Away programs. Mixed Grading",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "No prerequisites/corequisites listed",
+        "grading": "Mixed Grading"
+    },
+    {
+        "id": 122,
+        "title": "CS 100W - Technical Writing Workshop",
+        "units": "3 unit(s)",
+        "description": "Advanced writing through preparation of technical reports and presentations. Improving skills for writing subject-related reports, project proposals and personal resumes through practice and evaluation. Course assignments will be related to issues concerning careers in computer science. A3 or equivalent second semester composition course (with a grade of C- or better); completion of core GE; and upper division standing. Or Graduate or Postbaccalaureate level. Allowed Declared Majors: Computer Science, Data Science,\u00a0Computer Science and Linguistics, or Mathematics. Letter Graded Must be passed with C or better to satisfy the CSU Graduation Writing Assessment Requirement (GWAR).",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "A3 or equivalent second semester composition course (with a grade of C- or better); completion of core GE; and upper division standing. Or Graduate or Postbaccalaureate level. Allowed Declared Majors: Computer Science, Data Science,\u00a0Computer Science and Linguistics, or Mathematics.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 123,
+        "title": "CS 108 - Introduction to Game Studies",
+        "units": "3 unit(s)",
+        "description": "Introduction to the systems, design, history, and cultural analysis of games with emphasis on critical studies, development, technological literacy, markets and impact on society. Upper division standing or instructor consent. Letter Graded. Cross-listed with ART 108  . Art and Art History is responsible for scheduling. Close",
+        "class_structure": "Misc/Activity: 6 hours activity.",
+        "prerequisites/corequisite": "Upper division standing or instructor consent.",
+        "grading": "Letter Graded. Cross-listed with . Art and Art History is responsible for scheduling."
+    },
+    {
+        "id": 124,
+        "title": "CS 116A - Introduction to Computer Graphics",
+        "units": "3 unit(s)",
+        "description": "Vector geometry, geometric transformations and the graphics pipeline. Basic raster graphics algorithms for drawing discrete lines, clipping, visible surface determination and shading. Display of curves and surfaces. Graphics data structures. Prerequisite(s): MATH 31  or MATH 31X  , MATH 39  , CS 146  (with a grade of \u201cC-\u201d or better in each) and previous programming experience in C/C++; Allowed Majors: Computer Science, Data Science, Software Engineering or Applied/Computational Math or instructor\u2019s consent. Letter Graded Cross-listed with SE 116A  . Computer Science is responsible for scheduling. Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Prerequisite(s): MATH 31  or MATH 31X  , MATH 39  , CS 146  (with a grade of \u201cC-\u201d or better in each) and previous programming experience in C/C++; Allowed Majors: Computer Science, Data Science, Software Engineering or Applied/Computational Math or instructor\u2019s consent.",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 125,
+        "title": "CS 116B - Computer Graphics Algorithms",
+        "units": "3 unit(s)",
+        "description": "In-depth discussion of algorithms and techniques used in computer graphics and their implementation. Topics include: animation, fractals, anti-aliasing, fill algorithms, visible surface algorithms, color and shading, ray tracing, radiosity and texture maps. Substantial programming required. CS 116A  (with a grade of \u201cC-\u201d or better) or instructor consent. Letter Graded Offered only occasionally. Cross-listed with SE 116B  . Computer Science is responsible for scheduling. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 116A  (with a grade of \u201cC-\u201d or better) or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 126,
+        "title": "CS 122 - Advanced Programming with Python",
+        "units": "3 unit(s)",
+        "description": "Advanced features of the Python programming language with emphasis on programming practice. Course involves substantial programming projects in Python. CS 146  (with a grade of \u201cC-\u201d or better) or instructor consent.\u00a0Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Math, or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better) or instructor consent.\u00a0Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Math, or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 127,
+        "title": "CS 123A - Bioinformatics I",
+        "units": "3 unit(s)",
+        "description": "Introduction to algorithms, tools, and databases of Bioinformatics. Biological foundations: central dogma; sequence databases; pairwise alignment algorithms and tools; Blast; phylogenetics.\u00a0Possible additional topics: protein structure, multiple sequence alignment, next-gen sequencing, epigenetics, CRISPR. Project applying these approaches to real-world problems. CS 46B  or BIOL 31  , or instructor consent. Allowed Majors: Computer Science, Data Science, Software Engineering, Biology, Chemistry or MS Bioinformatics. Letter Graded Cross-listed with BIOL 123A  / SE 123A  . Computer Science is responsible for scheduling. Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46B  or BIOL 31  , or instructor consent. Allowed Majors: Computer Science, Data Science, Software Engineering, Biology, Chemistry or MS Bioinformatics.",
+        "grading": "Letter Graded Cross-listed with / . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 128,
+        "title": "CS 123B - Bioinformatics II",
+        "units": "3 unit(s)",
+        "description": "Advanced Bioinformatics algorithms, tools, databases. Biological background; protein structure/function; sequencing technology; sequence identification; transcriptomics; metagenomics; CRISPR. Possible additional topics: functional genomics; protein networks; drug discovery; pathway analysis; immunoinformatics; analysis pipelines; machine learning applications. Project applying advanced approaches to real-world problems. CS 123A  / BIOL 123A  / SE 123A  ; Allowed Majors: Computer Science, Data Science, Software Engineering Biology, Chemistry or MS Bioinformatics. Letter Graded Cross-listed with BIOL 123B  / SE 123B  . Computer Science is responsible for scheduling. Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 123A  / BIOL 123A  / SE 123A  ; Allowed Majors: Computer Science, Data Science, Software Engineering Biology, Chemistry or MS Bioinformatics.",
+        "grading": "Letter Graded Cross-listed with / . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 129,
+        "title": "CS 131 - Processing Big Data - Tools and Techniques",
+        "units": "3 unit(s)",
+        "description": "In-depth study of essential tools and techniques for processing big data over the UNIX operating system and/or other operating systems. On UNIX, it includes using grep, sed, awk, join, and programming advanced shell scripts for manipulating big data CS 46B  or BIOL 123B  with a grade of C- or better. Allowed Declared Majors:\u00a0Computer Science BS,\u00a0Data Science BS,\u00a0MS Bioinformatics\u00a0(MS\u00a0BI). Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46B  or BIOL 123B  with a grade of C- or better. Allowed Declared Majors:\u00a0Computer Science BS,\u00a0Data Science BS,\u00a0MS Bioinformatics\u00a0(MS\u00a0BI).",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 130,
+        "title": "CS 133 - Introduction to Data Visualization",
+        "units": "3 unit(s)",
+        "description": "Topics in data analysis and visualization. Covers tools and techniques to efficiently analyze and visualize large volumes of data in meaningful ways to help solve complex problems in fields such as life sciences, business, and social sciences. CS 146  with a grade of C- or better, or [ CS 22B  and graduate standing].\u00a0Computer Science, Data Science, Computer Science and Linguistics, or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  with a grade of C- or better, or [ CS 22B  and graduate standing].\u00a0Computer Science, Data Science, Computer Science and Linguistics, or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 131,
+        "title": "CS 134 - Computer Game Design and Programming",
+        "units": "3 unit(s)",
+        "description": "Architectures and object-oriented patterns for computer game design. Animation, simulation, user interfaces, graphics, and intelligent behaviors. Team projects using an existing game engine framework. CS 146  and either CS 151  or CMPE 135  (with a grade of \u201cC-\u201d or better in each);\u00a0Allowed Majors: Computer Science, Applied and Computational Math, Software Engineering; or instructor consent Letter Graded Cross-listed with SE 134  . Computer Science is responsible for scheduling. Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  and either CS 151  or CMPE 135  (with a grade of \u201cC-\u201d or better in each);\u00a0Allowed Majors: Computer Science, Applied and Computational Math, Software Engineering; or instructor consent",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 132,
+        "title": "CS 136 - Introduction to Computer Vision",
+        "units": "3 unit(s)",
+        "description": "Fundamental and advanced Computer Vision algorithms. Basic image processing techniques (image convolution, and region and edge detection). Complex vision algorithms for contour detection, depth perception, dynamic vision, and object recognition. Core topics (color processing, texture analysis, and visual geometry). CS 146  , MATH 39  , and CS 49C  or equivalent (with a grade of \u201cC-\u201d or better in each). Letter Graded Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  , MATH 39  , and CS 49C  or equivalent (with a grade of \u201cC-\u201d or better in each).",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 133,
+        "title": "CS 143C - Numerical Analysis and Scientific Computing",
+        "units": "3 unit(s)",
+        "description": "Development and comparison of important algorithms for scientific computing in terms of efficiency, accuracy and reliability. Topics include nonlinear equations, interpolation, approximation theory, differentiation, integration, differential equations, numerical stability and error analysis. Substantial assignments using contemporary software packages and professional subprogram libraries. MATH 32  or MATH 32X  , one of CS 22A  , MATH 50  , CS 46A  , CS 49C  or CS 49J  , one of MATH 33A  , MATH 33LA  , or MATH 34  (with a grade of \u201cC-\u201d or better in each); or instructor consent. Letter Graded Cross-listed with MATH 143C  / METR 143C  . Mathematics and Statistics is responsible for scheduling. Close Close Close Close Close Close Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "MATH 32  or MATH 32X  , one of CS 22A  , MATH 50  , CS 46A  , CS 49C  or CS 49J  , one of MATH 33A  , MATH 33LA  , or MATH 34  (with a grade of \u201cC-\u201d or better in each); or instructor consent.",
+        "grading": "Letter Graded Cross-listed with / . Mathematics and Statistics is responsible for scheduling."
+    },
+    {
+        "id": 134,
+        "title": "CS 143M - Numerical Analysis and Scientific Computing",
+        "units": "3 unit(s)",
+        "description": "Development and comparison of important algorithms for scientific computing in terms of efficiency, accuracy and reliability. Topics include systems of linear equations-direct and iterative methods, least squares problems, eigenvalues and eigenvectors, numerical stability and error analysis. Substantial assignments using contemporary software packages and professional subprogram libraries. MATH 39  , one of CS 22A  , MATH 50  , CS 46A  or CS 49C  (each with a grade of \u201cC-\u201d or better). Or instructor consent. Letter Graded Cross-listed with MATH 143M  . Mathematics and Statistics is responsible for scheduling. Close Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "MATH 39  , one of CS 22A  , MATH 50  , CS 46A  or CS 49C  (each with a grade of \u201cC-\u201d or better). Or instructor consent.",
+        "grading": "Letter Graded Cross-listed with . Mathematics and Statistics is responsible for scheduling."
+    },
+    {
+        "id": 135,
+        "title": "CS 144 - Advanced C++ Programming",
+        "units": "3 unit(s)",
+        "description": "Advanced features of C++, including operator overloading, memory management, templates, exceptions, multiple inheritance, RTTI, namespaces, tools. CS 46B  and CS 49C  (with a grade of C- or better in each), or equivalent knowledge of object-oriented programming and C, or instructor consent; Allowed Major: Computer Science only. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46B  and CS 49C  (with a grade of C- or better in each), or equivalent knowledge of object-oriented programming and C, or instructor consent; Allowed Major: Computer Science only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 136,
+        "title": "CS 146 - Data Structures and Algorithms",
+        "units": "3 unit(s)",
+        "description": "Implementations of advanced tree structures, priority queues, heaps, directed and undirected graphs. Advanced searching and sorting techniques (radix sort, heapsort, mergesort, and quicksort). Design and analysis of data structures and algorithms. Divide-and-conquer, greedy, and dynamic programming algorithm design techniques. MATH 30  , MATH 42  , CS 46B  , and [( CS 48  or CS 49J  ) if CS 46B  was not in Java], each with a grade of C-\u00a0or better;\u00a0Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence,\u00a0Software Engineering,\u00a0Data Science, Computer Science and Linguistics\u00a0majors only; or instructor consent. Letter Graded Close Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "MATH 30  , MATH 42  , CS 46B  , and [( CS 48  or CS 49J  ) if CS 46B  was not in Java], each with a grade of C-\u00a0or better;\u00a0Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence,\u00a0Software Engineering,\u00a0Data Science, Computer Science and Linguistics\u00a0majors only; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 137,
+        "title": "CS 147 - Computer Architecture",
+        "units": "3 unit(s)",
+        "description": "Introduction to the basic concepts of computer hardware structure and design, including processors and arithmetic logic units, pipelining, and memory hierarchy. CS 47  or CMPE 102  (with a grade of \u201cC-\u201d or better), Computer Science or Forensic Science: Digital Evidence majors only. Letter Graded. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 47  or CMPE 102  (with a grade of \u201cC-\u201d or better), Computer Science or Forensic Science: Digital Evidence majors only.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 138,
+        "title": "CS 148 - Applied Algorithms II",
+        "units": "1 unit(s)",
+        "description": "Applying basic data structures to implement programs to solve problems. Emphasis on using the data structures and algorithms learned in CS 146  . Students will be expected to write a Java program every week. CS 146  . Letter Graded. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  .",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 139,
+        "title": "CS 149 - Operating Systems",
+        "units": "3 unit(s)",
+        "description": "Fundamentals: Contiguous and non-contiguous memory management; processor scheduling and interrupts; concurrent, mutually exclusive, synchronized and deadlocked processes; parallel computing; files. Substantial programming project required. CS 47  or CMPE 102  (with a grade of \u201cC-\u201d or better), and CS 146 (with a grade of \u201cC-\u201d or better). Allowed Declared Majors: Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence, or Software Engineering Majors only; or Instructor Consent. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 47  or CMPE 102  (with a grade of \u201cC-\u201d or better), and CS 146 (with a grade of \u201cC-\u201d or better). Allowed Declared Majors: Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence, or Software Engineering Majors only; or Instructor Consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 140,
+        "title": "CS 151 - Object-Oriented Design",
+        "units": "3 unit(s)",
+        "description": "Design of classes and interfaces. Object-oriented design methodologies and notations. Design patterns. Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering concepts and tools. Required team-based programming assignment. MATH 42  , CS 46B  , and [( CS 48  or CS 49J  ) if CS 46B  was not in Java], each with a grade of C- or better; Allowed Declared Majors: Computer Science, Applied and Computational Math, Software Engineering, or Data Science; or instructor consent. Letter Graded Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "MATH 42  , CS 46B  , and [( CS 48  or CS 49J  ) if CS 46B  was not in Java], each with a grade of C- or better; Allowed Declared Majors: Computer Science, Applied and Computational Math, Software Engineering, or Data Science; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 141,
+        "title": "CS 152 - Programming Paradigms",
+        "units": "3 unit(s)",
+        "description": "Programming language syntax and semantics. Data types and type checking. Scope, bindings, and environments. Functional and logic programming paradigms, and comparison to other paradigms. Extensive coverage of a functional language. CS 151  or CMPE 135  (with a grade of \u201cC-\u201d or better); Computer Science or Software Engineering Majors only. Letter Graded. Cross-listed with SE 152  . Computer Science is responsible for scheduling. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 151  or CMPE 135  (with a grade of \u201cC-\u201d or better); Computer Science or Software Engineering Majors only.",
+        "grading": "Letter Graded. Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 142,
+        "title": "CS 153 - Concepts of Compiler Design",
+        "units": "3 unit(s)",
+        "description": "Theoretical aspects of compiler design, including parsing context free languages, lexical analysis, translation specification and machine-independent code generation. Programming projects to demonstrate design topics. CS 47  or CMPE 102  , CS 146  , and CS 154  (with a grade of \u201cC-\u201d or better in each); Allowed Major: Computer Science only; or instructor consent. Letter Graded Cross-listed with SE 153  . Computer Science is responsible for scheduling. Close Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 47  or CMPE 102  , CS 146  , and CS 154  (with a grade of \u201cC-\u201d or better in each); Allowed Major: Computer Science only; or instructor consent.",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 143,
+        "title": "CS 154 - Formal Languages and Computability",
+        "units": "3 unit(s)",
+        "description": "Finite automata, context-free languages, Turing machines, computability. MATH 42  or MATH 42X  and CS 46B  (with a grade of \u201cC-\u201d or better in each); Allowed Majors: Computer Science, Computer Science and Linguistics, or Software Engineering. Letter Graded. Cross-listed with SE 154  . Computer Science is responsible for scheduling. Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "MATH 42  or MATH 42X  and CS 46B  (with a grade of \u201cC-\u201d or better in each); Allowed Majors: Computer Science, Computer Science and Linguistics, or Software Engineering.",
+        "grading": "Letter Graded. Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 144,
+        "title": "CS 155 - Introduction to the Design and Analysis of Algorithms",
+        "units": "3 unit(s)",
+        "description": "Algorithm design techniques: dynamic programming, greedy algorithms, Euclidean and extended Euclidean algorithms, Discrete and Fast Fourier transforms. Analysis of algorithms, intractable problems and NP-completeness. Additional topics selected from: selection algorithms and adversary arguments, approximation algorithms, parallel algorithms, and randomized algorithms. CS 146  (with a grade of \u201cC-\u201d or better);\u00a0Allowed Majors: Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Mathematics or Software Engineering; or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better);\u00a0Allowed Majors: Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Mathematics or Software Engineering; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 145,
+        "title": "CS 156 - Introduction to Artificial Intelligence",
+        "units": "3 unit(s)",
+        "description": "Basic concepts and techniques of artificial intelligence: problem solving, search, deduction, intelligent agents, knowledge representation. Topics chosen from logic programming, game playing, planning, machine learning, natural language, neural nets, robotics. CS 146  (with a grade of \u201cC-\u201d or better);\u00a0Allowed Majors: Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Mathematics or Software Engineering;\u00a0or instructor consent. Letter Graded Cross-listed with SE 156  . Computer Science is responsible for scheduling. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better);\u00a0Allowed Majors: Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Mathematics or Software Engineering;\u00a0or instructor consent.",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 146,
+        "title": "CS 157A - Introduction to Database Management Systems",
+        "units": "3 unit(s)",
+        "description": "Relational data model. Relational algebra. Standard SQL. Design theory. Conceptual data modeling. Integrity constraints and triggers. Views and indexes. Transactions. Distributed data management. Interactive and programmatic interfaces to database systems. Application programming project using a prominent database system. CS 146  (with a grade of \u201cC-\u201d or better); Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence,\u00a0Software Engineering, Data Science, or Computer Science and Linguistics\u00a0majors only; or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better); Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence,\u00a0Software Engineering, Data Science, or Computer Science and Linguistics\u00a0majors only; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 147,
+        "title": "CS 157B - Database Management Systems II",
+        "units": "3 unit(s)",
+        "description": "Survey course. Object-oriented data model, definition language, query language. Object relational database systems. Database trends like active, temporal, multimedia, deductive databases. Web database topics, namely, architectures, introduction to interface languages. Team projects. CS 157A  (with a grade of \u201cC-\u201d or better); Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence, or Software Engineering Majors only; or instructor consent. Letter Graded Cross-listed with SE 157B  . Computer Science is responsible for scheduling. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157A  (with a grade of \u201cC-\u201d or better); Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence, or Software Engineering Majors only; or instructor consent.",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 148,
+        "title": "CS 157C - NoSQL Database Systems",
+        "units": "3 unit(s)",
+        "description": "NoSQL Data Models: Key-Value, Wide Column, Document, and Graph Stores. CAP Theorem. Distribution Models. Current NoSQL Databases: Configuration and Deployment, CRUD operations, Indexing, Replication, and Sharding. Public Data Sets. API Coding and Application Development.\u00a0 NoSQL in the Cloud. Team Project. CS 157A  with a \u201cC- or better\u201d.\u00a0Computer Science or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157A  with a \u201cC- or better\u201d.\u00a0Computer Science or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 149,
+        "title": "CS 158A - Computer Networks",
+        "units": "3 unit(s)",
+        "description": "Introduction to computer networks, including network layered architectures, local and wide area networks, mobile wireless networks, Internet TCP/IP protocol suite, network resource management, network programming, network performance, network security, network applications. CS 146  and CS 47  (with grades of \u201cC-\u201d or better); Computer Science or Software Engineering majors only, or instructor consent. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  and CS 47  (with grades of \u201cC-\u201d or better); Computer Science or Software Engineering majors only, or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 150,
+        "title": "CS 158B - Computer Network Management",
+        "units": "3 unit(s)",
+        "description": "Principles and technologies of network management: reference models, functions (fault, configuration, performance, security and accounting management), management information, communication protocols, integration, and assessment. Network security and cyber defense: cryptography, key distribution, authentication protocols, network attacks, access control, and example systems. CS 158A  or CMPE 148  (with a grade of \u201cC-\u201d or better);\u00a0Allowed Majors: Computer Science, Software Engineering or Forensic Science: Digital Evidence;\u00a0or instructor consent Letter Graded Cross-listed with SE 158B  . Computer Science is responsible for scheduling. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 158A  or CMPE 148  (with a grade of \u201cC-\u201d or better);\u00a0Allowed Majors: Computer Science, Software Engineering or Forensic Science: Digital Evidence;\u00a0or instructor consent",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 151,
+        "title": "CS 159 - Introduction to Parallel Processing",
+        "units": "3 unit(s)",
+        "description": "Major parallel architectures: shared memory, distributed memory, SIMD, MIMD. Parallel algorithms: techniques for scientific applications, measures of performance. Parallel programming: principles and implementations in various languages. Assignments on available parallel and vector computers. CS 146  (with a grade of \u201cC-\u201d or better); Computer Science, Applied and Computational Math, or Software Engineering Majors only; or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better); Computer Science, Applied and Computational Math, or Software Engineering Majors only; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 152,
+        "title": "CS 160 - Software Engineering",
+        "units": "3 unit(s)",
+        "description": "Software engineering principles, software process and process models, requirements elicitation and analysis, design, configuration management, quality control, project planning, social and ethical issues. Required team-based software development, including written requirements specification and design documentation, oral presentation, and tool use. CS 146  , CS 151  (with a grade of \u201cC-\u201d or better in each); CS 100W  (with a grade of \u201cC\u201d or better) or instructor consent. Computer Science\u00a0majors only. Letter Graded Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  , CS 151  (with a grade of \u201cC-\u201d or better in each); CS 100W  (with a grade of \u201cC\u201d or better) or instructor consent. Computer Science\u00a0majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 153,
+        "title": "CS 161 - Software Project",
+        "units": "3 unit(s)",
+        "description": "A substantial project based on material from an advanced area of computer science. Includes lectures on the project topic and the design and testing of software systems. At least 50% of the course grade to be based on the project. CS 160  (with a grade of \u201cC-\u201d or better) or instructor consent. Computer Science and Software Engineering Majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 160  (with a grade of \u201cC-\u201d or better) or instructor consent. Computer Science and Software Engineering Majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 154,
+        "title": "CS 163 - Data Science Senior Project",
+        "units": "3 unit(s)",
+        "description": "Semester-long individual or team project. Apply knowledge and technology to solve a realistic data science problem, including the entire process of collecting and processing real-world data, applying suitable analytic methods, explaining analysis outcomes, and making appropriate recommendations. CS 100W  , CS 131  , and either CS 156  or CS 171  . Letter Graded Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 100W  , CS 131  , and either CS 156  or CS 171  .",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 155,
+        "title": "CS 166 - Information Security",
+        "units": "3 unit(s)",
+        "description": "Fundamental security topics including cryptography, authentication, access control, network security, security protocols, and software security. Networking basics are covered. Additional security topics selected from multilevel security, biometrics, blockchain, machine learning, information warfare, e-commerce, intrusion detection, system evaluation and assurance. CS 146  (with a grade of \u201cC-\u201d or better) and either CS 47  or CMPE 102  or CMPE 120  (with a grade of \u201cC-\u201d or better); Computer Science, Data Science, Computer Science and Linguistics,\u00a0Applied and Computational Math, Forensic Science: Digital Evidence, or Software Engineering Majors only; or instructor consent. Letter Graded Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better) and either CS 47  or CMPE 102  or CMPE 120  (with a grade of \u201cC-\u201d or better); Computer Science, Data Science, Computer Science and Linguistics,\u00a0Applied and Computational Math, Forensic Science: Digital Evidence, or Software Engineering Majors only; or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 156,
+        "title": "CS 168 - Blockchain and Cryptocurrencies",
+        "units": "3 unit(s)",
+        "description": "Cryptocurrencies and the blockchain. Centralized clearinghouse solutions vs. distributed consensus solutions. The blockchain and its validation approaches: proof-of-work, proof-of-stake, proof-of-storage, etc. Cryptocurrency wallets. Smart contracts. CS 166  (with a grade of C- or better). Computer Science or Software Engineering majors only, or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 166  (with a grade of C- or better). Computer Science or Software Engineering majors only, or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 157,
+        "title": "CS 171 - Introduction to Machine Learning",
+        "units": "3 unit(s)",
+        "description": "Covers a selection of classic machine learning techniques including backpropagation and several currently popular neural networking and deep learning architectures. Hands-on lab exercises are a significant part of the course. A major project is required. CS 146  (with a grade of C- or better).\u00a0Computer Science, Data Science, Computer Science and Linguistics, or Software Engineering majors only. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of C- or better).\u00a0Computer Science, Data Science, Computer Science and Linguistics, or Software Engineering majors only.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 158,
+        "title": "CS 174 - Server-side Web Programming",
+        "units": "3 unit(s)",
+        "description": "Development and deployment of multi-tier web-based applications. Introduction to HTML, XML, enterprise design patterns, web services and database access. CS 46B  (with a grade of \u201cC-\u201d or better); Allowed Majors: Computer Science or Software Engineering Majors. Letter Graded Cross-listed with SE 174  . Computer Science is responsible for scheduling. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 46B  (with a grade of \u201cC-\u201d or better); Allowed Majors: Computer Science or Software Engineering Majors.",
+        "grading": "Letter Graded Cross-listed with . Computer Science is responsible for scheduling."
+    },
+    {
+        "id": 159,
+        "title": "CS 175 - Mobile Device Development",
+        "units": "3 unit(s)",
+        "description": "Mobile Platform APIs including those for networking, touch, graphics, data, location, and camera. Testing and profiling on devices and emulators/simulators. CS 47  , and knowledge of Java equivalent to that of CS 46A  or CS 49J  ; Allowed Majors: Computer Science or Forensic Science: Digital Evidence. Letter Graded Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 47  , and knowledge of Java equivalent to that of CS 46A  or CS 49J  ; Allowed Majors: Computer Science or Forensic Science: Digital Evidence.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 160,
+        "title": "CS 176 - Introduction to Social Network Analysis",
+        "units": "3 unit(s)",
+        "description": "The Web and social networks are complex networks. We study them by unifying tools from different disciplines: computer science, economics, and social sciences. Topics include graph theory, information networks, search, advertisement, auctions. CS 146  (with a grade of C-); or instructor consent.\u00a0Computer Science, Data Science, Computer Science and Linguistics, or Software Engineering majors only, or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of C-); or instructor consent.\u00a0Computer Science, Data Science, Computer Science and Linguistics, or Software Engineering majors only, or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 161,
+        "title": "CS 180 - Individual Studies",
+        "units": "1-3 unit(s)",
+        "description": "Individual study in a specific field. Department chair consent. Not available to Open University Students Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Department chair consent. Not available to Open University Students",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 162,
+        "title": "CS 180H - Individual Studies for Honors",
+        "units": "3 unit(s)",
+        "description": "Senior project on advanced topics in computer science as determined by the instructor. Written paper or oral presentation of the project required. Intended for students graduating with departmental honors. At least junior standing as computer science major. GPA of 3.5 or higher in the major and department chair consent. Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "At least junior standing as computer science major. GPA of 3.5 or higher in the major and department chair consent.",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 163,
+        "title": "CS 185A - Advanced Practical Computing Topics",
+        "units": "1 unit(s)",
+        "description": "Computing topics of current interest in industrial practice. Emphasis on effective use and integration of software/hardware. Different topics may be offered at different times in a short-course lecture/lab format and may be repeated for credit. Varies with topic Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Varies with topic",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 164,
+        "title": "CS 185C - Advanced Practical Computing Topics",
+        "units": "3 unit(s)",
+        "description": "Computing topics of current interest in industrial practice. Emphasis on effective use and integration of software/hardware. Different topics may be offered at different times in a short-course lecture/lab format and may be repeated for credit. Varies with topic; Allowed Majors: Computer Science or Data Science. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Varies with topic; Allowed Majors: Computer Science or Data Science.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 165,
+        "title": "CS 190 - Internship Project",
+        "units": "1 unit(s)",
+        "description": "Work on an approved semester-long paid project at an industrial site. Meet once per week on campus. Progress reports, oral presentations, final report, and evaluation by project supervisor will be used to demonstrate the acquisition of skills identified as goals prior to the start of the assignment.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better) or graduate standing, selection by a company, and instructor consent",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 166,
+        "title": "CS 190I - Internship Project",
+        "units": "3 unit(s)",
+        "description": "Work on an approved semester-long paid project at an industrial site. Meet once per week on campus. Progress reports, oral presentations, final report, and evaluation by project supervisor will be used to demonstrate the acquisition of skills identified as goals prior to the start of the assignment. CS 146  (with a grade of \u201cC-\u201d or better) or graduate standing, selection by a company, and instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146  (with a grade of \u201cC-\u201d or better) or graduate standing, selection by a company, and instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 167,
+        "title": "CS 192 - International Program Studies",
+        "units": "1-6 unit(s)",
+        "description": "Study Abroad and Away transfer credit course. Study Abroad and Away provides students the opportunity to study abroad on long term programs (Exchange Programs, CSU International Programs, and International Student Exchange Programs) and short-term programs (Faculty-Led Programs and Summer School Abroad Programs) for academic credit, offering Alternative Break Programs for cultural immersion, and designing other globally focused opportunities. This course is designated as a placeholder course for Study Abroad and Away programs. Mixed Grading",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "No prerequisites/corequisites listed",
+        "grading": "Mixed Grading"
+    },
+    {
+        "id": 168,
+        "title": "CS 200W - Graduate Technical Writing",
+        "units": "3 unit(s)",
+        "description": "Graduate technical writing workshop to develop advanced communication skills that will meet the professional needs of computer scientists, along with research methodologies and proper documentation for the master\u2019s thesis project. Graduate standing. Allowed Declared Major: Bioinformatics, Computer Science, Data Science, Mathematics, or Statistics. Or instructor consent. Letter Graded This course satisfies graduate-level GWAR in this master\u2019s program.\u00a0This course does NOT satisfy the undergraduate GE Area Z requirement.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Graduate standing. Allowed Declared Major: Bioinformatics, Computer Science, Data Science, Mathematics, or Statistics. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 169,
+        "title": "CS 216 - Physically Based Modeling for Computer Graphics",
+        "units": "3 unit(s)",
+        "description": "Course provides a physically based approach to creating realistic images and animation applicable to film, games and other industries. In a project-based approach, students will study the algorithms commonly used for animation and modeling in computer graphics.ourse provides a physically based approach to creating realistic images and animation applicable to film, games and other industries. In a project-based approach, students will study the algorithms commonly used for animation and modeling in computer graphics. CS 116A  with a grade of B or better, or its equivalent, or with permission from the instructor. Letter Graded. Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 116A  with a grade of B or better, or its equivalent, or with permission from the instructor.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 170,
+        "title": "CS 218 - Topics in Cloud Computing",
+        "units": "3 unit(s)",
+        "description": "Topics in cloud computing, including distributed system models, virtual machines, virtualization, cloud platform architectures (IaaS, PaaS, SaaS), service-oriented architectures, cloud programming and software environments, peer-to-peer computing, ubiquitous cloud, cloud security and trust management. CS 149  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 149  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 171,
+        "title": "CS 223 - Advanced Bioinformatics",
+        "units": "3 unit(s)",
+        "description": "The course investigates algorithms for solving computational problems in bioinformatics, and the life processes underlying those algorithms. Metagenomics, bioinformatic machine learning, single-cell RNA sequencing, variant discovery. Possible additional topics: genome assembly, advanced phylogenetics, long-read sequencing, and structural bioinformatics. CS 123B  / BIOL 123B  / SE 123B  . Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Letter Graded. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 123B  / BIOL 123B  / SE 123B  . Allowed Declared Major: Computer Science, Bioinformatics, Data Science.",
+        "grading": "Letter Graded."
+    },
+    {
+        "id": 172,
+        "title": "CS 224 - Next Generation Sequencing & Genome Assembly",
+        "units": "3 unit(s)",
+        "description": "Genomic concepts and methods with a focus on Next Generation Sequencing (NGS) are presented. The practice and methods of collecting, analyzing, and assembling DNA and RNA sequences using de novo and reference-based methods along with variant calling are also presented. BIOL 123B  and MATH 162  or CS 156  or CS 171  , or instructor consent. Graduate Standing. Allowed Declared Major: Computer Science, Bioinformatics, and Data Science. Letter Graded/RP. Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "BIOL 123B  and MATH 162  or CS 156  or CS 171  , or instructor consent. Graduate Standing. Allowed Declared Major: Computer Science, Bioinformatics, and Data Science.",
+        "grading": "Letter Graded/RP."
+    },
+    {
+        "id": 173,
+        "title": "CS 225 - Topics in Sequence-based Machine Learning for Bioinformatics",
+        "units": "3 unit(s)",
+        "description": "A study of recent advances in machine learning methods with applications to solving sequence analysis problems in molecular biology. The methods examined include word embeddings, vector space representations, language models, and deep learning architectures. A substantial course project is required. BIOL 123B  and MATH 162  or CS 156  or CS 171  , or instructor consent. Graduate standing. Allowed Declared Major: MS\u00a0Computer Science, MS Bioinformatics, MS Data Science. Letter Graded Close Close Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "BIOL 123B  and MATH 162  or CS 156  or CS 171  , or instructor consent. Graduate standing. Allowed Declared Major: MS\u00a0Computer Science, MS Bioinformatics, MS Data Science.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 174,
+        "title": "CS 235 - User Interface Design",
+        "units": "3 unit(s)",
+        "description": "Human-computer interaction principles. Direct manipulation, focus plus context, interaction history; interfaces for websites and website collections; usability testing; role of metaphors; case studies; advanced topics include information visualization, interfaces for collaboration, intelligent interfaces, and software agents. CS 130 or CS 116A  , and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 130 or CS 116A  , and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 175,
+        "title": "CS 247 - Advanced Computer Architecture",
+        "units": "3 unit(s)",
+        "description": "Advanced topics in vector architectures, including: pipelined architectures, dataflow computers, VLSI architectures, butterfly connections; bus and memory architectures; cache structures; hardware implementations of algorithms. CS 147  , CS 149  , and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 147  , CS 149  , and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 176,
+        "title": "CS 249 - Distributed Computing",
+        "units": "3 unit(s)",
+        "description": "Current issues in operating systems, including multiprocessor systems and distributed computing, networks, security and performance. Case studies of current operating systems. CS 149  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 149  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 177,
+        "title": "CS 251 - Obj Oriented Anlys",
+        "units": "3 unit(s)",
+        "description": "Introduction to important concepts, activities, and artifacts of the analysis and design phases of object-oriented software development. Use of CASE tools, UML, and pattern catalogs to build requirements models, domain models, design models, and reusable frameworks for a variety of software systems. CS 160  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 160  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 178,
+        "title": "CS 252 - Advanced Programming Language Principles",
+        "units": "3 unit(s)",
+        "description": "Language design and paradigms, including concepts underlying functional, logic, object-oriented and parallel paradigms. Theoretical foundations, including lambda calculus, denotational and axiomatic semantics. Proofs of program correctness. Programming projects emphasizing different aspects of language design. CS 152  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 152  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 179,
+        "title": "CS 253 - Advanced Compiler Design",
+        "units": "3 unit(s)",
+        "description": "Review of attribute analysis and static semantic evaluation. Runtime environments and code generation. Basic blocks and flow graphs. Register allocation and storage classes. Common subexpression elimination and constant propagation. Loop optimizations. Global data flow analysis. Completion of a code optimization project. CS 153  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 153  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 180,
+        "title": "CS 254 - Theory of Computation",
+        "units": "3 unit(s)",
+        "description": "Models of computation; decidability; complexity measures; hierarchies; P, NP and other complexity classes; intractable problems. CS 154  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 154  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 181,
+        "title": "CS 255 - Design and Analysis of Algorithms",
+        "units": "3 unit(s)",
+        "description": "Randomized algorithms. Parallel algorithms. Distributed algorithms. NP-completeness of particular problems. Approximation algorithms. CS 155  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 155  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 182,
+        "title": "CS 256 - Topics in Artificial Intelligence",
+        "units": "3 unit(s)",
+        "description": "Introduction to topics in artificial intelligence such as problem solving methods, game playing, understanding natural languages, pattern recognition, computer vision and the general problem of representing knowledge. Students will be expected to use LISP. CS 156  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 156  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 183,
+        "title": "CS 257 - Database System Principles",
+        "units": "3 unit(s)",
+        "description": "Design management and performance issues on: file organization and access methods, buffer management and storage management. Query processing and query optimization, transaction management, recovery, and concurrency control techniques. Reliability, protection and integrity techniques. Extensive programming project. CS 157B  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157B  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 184,
+        "title": "CS 258 - Computer Communication Systems",
+        "units": "3 unit(s)",
+        "description": "Design, analysis and survey of the latest advancements in network and Internet technologies, such as supporting TCP/IP over various network media, software-defined networks, networks supporting cloud computing, network security, peer-to-peer and overlay networks, and quality of services. CS 158A  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 158A  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 185,
+        "title": "CS 259 - Advanced Parallel Processing",
+        "units": "3 unit(s)",
+        "description": "An advanced hardware architecture and software development class focused on multi-threaded, parallel processing algorithms and techniques. A study of high-performance parallel hardware architectures and parallel programming languages. Applications of parallel and GPU processing, including computer gaming. Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 186,
+        "title": "CS 262 - Randomized Algorithms and Applications",
+        "units": "3 unit(s)",
+        "description": "Design and analysis of algorithms which incorporate randomness in their design. Applications will be given in several of the following areas: data structures, pattern matching, cryptography, parallel computing, distributed computing, and interactive proof systems. CS 154  or CS 155  , and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 154  or CS 155  , and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 187,
+        "title": "CS 265 - Cryptography and Computer Security",
+        "units": "3 unit(s)",
+        "description": "Security mechanisms for protecting information in computer systems and networks. Includes cryptography and its applications to security services in distributed systems, mathematics of cryptography, access control, protection models, security policies, design of secure systems, firewalls, and intrusion detection. CS 149  and CS 166  , or instructor consent. Graduate standing. Allowed Declared Major: Computer Science MS, Bioinformatics MS, and Data Science MS. Letter Graded Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 149  and CS 166  , or instructor consent. Graduate standing. Allowed Declared Major: Computer Science MS, Bioinformatics MS, and Data Science MS.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 188,
+        "title": "CS 266 - Topics in Information Security",
+        "units": "3 unit(s)",
+        "description": "Advanced topics in the area of information security. Content differs with each offering. Possible topics include, but are not restricted to: Network Security, Software Reverse Engineering and Cryptanalysis. CS 166  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 166  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 189,
+        "title": "CS 267 - Topics in Database Systems",
+        "units": "3 unit(s)",
+        "description": "Advanced topics in the area of database and information systems. Content differs in each offering. Possible topics include though not restricted to: Data Mining, Distributed Databases and Transaction Processing. CS 157B  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157B  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 190,
+        "title": "CS 268 - Topics in Wireless Mobile Networking",
+        "units": "3 unit(s)",
+        "description": "Advanced topics in the area of wireless mobile networking. Content may differ in each offering. Possible topics include though not restricted to: wireless local and metropolitan area networks, mobile Internet, sensor networks, mobile computing, wireless network security. Repeatable when topic changes. CS 158A  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 158A  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 191,
+        "title": "CS 271 - Topics in Machine Learning",
+        "units": "3 unit(s)",
+        "description": "Variable topics in machine learning. Content may include hidden Markov models, principal component analysis, support vector machines, clustering, boosting, random forests, neural networks, and deep learning. Relevant applications will be covered. CS 157A  .\u00a0Graduate standing. Allowed Declared Major: MS in Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157A  .\u00a0Graduate standing. Allowed Declared Major: MS in Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 192,
+        "title": "CS 272 - Reinforcement Learning and Sequential Decision Making",
+        "units": "3 unit(s)",
+        "description": "Introduction to reinforcement learning, deep reinforcement learning, other online learning algorithms, and their applications. CS 157A  . Allowed Declared Major: MS in Computer Science, Bioinformatics, Data Science. Letter Graded",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157A  . Allowed Declared Major: MS in Computer Science, Bioinformatics, Data Science.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 193,
+        "title": "CS 273 - Topics in Natural Language Processing",
+        "units": "3 unit(s)",
+        "description": "Variable topics in Natural Language Processing.\u00a0Content may include regression/classification model evaluation,\u00a0text processing, spell correction,\u00a0language models,\u00a0sentiment classification, keyword search, and other NLP-based systems. Graduate standing. CS 156  or CS 171  or instructor consent. Letter graded. Close Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Graduate standing. CS 156  or CS 171  or instructor consent.",
+        "grading": "Letter graded."
+    },
+    {
+        "id": 194,
+        "title": "CS 274 - Topics in Web Intelligence",
+        "units": "3 unit(s)",
+        "description": "Topics in web intelligence including finding similar items, mining data streams, link analysis, frequent itemsets, advertising on the web, recommender systems, and mining social-network graphs.\u00a0 Relevant applications will be covered. Significant programming project is required. CS 157A  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent. Letter Graded Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 157A  and\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 195,
+        "title": "CS 276 - Machine Learning on Graphs",
+        "units": "3 unit(s)",
+        "description": "Graphs are a powerful way to model networks. Networks contain a plethora of valuable information about the underlying data of various scientific fields. Introduction to various network analysis and machine learning techniques to\u00a0extract, analyze and visualize networks. CS 146  Letter graded. Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 146",
+        "grading": "Letter graded."
+    },
+    {
+        "id": 196,
+        "title": "CS 280 - Graduate Individual Studies",
+        "units": "1-3 unit(s)",
+        "description": "Individual study in specific field. Department chair consent. Not available to Open University Students Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Department chair consent. Not available to Open University Students",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 197,
+        "title": "CS 286 - Advanced Topics in Computer Science",
+        "units": "3 unit(s)",
+        "description": "Selected topics in computer science. Topics vary each semester and may be repeated for a maximum of 6 units.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Suitable upper division background in mathematics and computer science as set by instructor.\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Letter Graded"
+    },
+    {
+        "id": 198,
+        "title": "CS 297 - Preparation for Writing Project or Thesis",
+        "units": "3 unit(s)",
+        "description": "Supervised individual research and project work to prepare for a master\u2019s writing project or thesis. Fully classified standing in the MS Computer Science, MS Bioinformatics, or MS Data Science program, department chair consent. Not available to Open University Students. Credit/No Credit",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Fully classified standing in the MS Computer Science, MS Bioinformatics, or MS Data Science program, department chair consent. Not available to Open University Students.",
+        "grading": "Credit/No Credit"
+    },
+    {
+        "id": 199,
+        "title": "CS 298 - Master\u2019s Writing Project",
+        "units": "3 unit(s)",
+        "description": "CS 297  or CS 240, and department chair consent and advancement to candidacy for the MS degree. Not available to Open University Students. Mandatory Credit/No Credit/RP Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 297  or CS 240, and department chair consent and advancement to candidacy for the MS degree. Not available to Open University Students.",
+        "grading": "Mandatory Credit/No Credit/RP"
+    },
+    {
+        "id": 200,
+        "title": "CS 298B - Bioinformatics Master\u2019s Project",
+        "units": "3 unit(s)",
+        "description": "Supervised individual research of an advanced character for the completion of the masters project.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "Fully classified standing in the MS in Bioinformatics program and department chair consent. Not available to Open University Students.",
+        "grading": "Mandatory Credit/No Credit/RP"
+    },
+    {
+        "id": 201,
+        "title": "CS 299 - Master\u2019s Thesis",
+        "units": "3 unit(s)",
+        "description": "CS 297  and Department Chair consent and advancement to candidacy for the MS degree. Not available to Open University Students. Mandatory Credit/No Credit/RP Close",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "CS 297  and Department Chair consent and advancement to candidacy for the MS degree. Not available to Open University Students.",
+        "grading": "Mandatory Credit/No Credit/RP"
+    },
+    {
+        "id": 202,
+        "title": "CS 1022AS - Support Course for CS 22A",
+        "units": "1 unit(s)",
+        "description": "Review of relevant background material prior to the corresponding content for CS 22A  . Required corequisite for enrollment category M-III and M-IV students in CS 22A  . Credit/No Credit/No Degree Credit No Degree Credit. Close Close",
+        "class_structure": "Misc/Lab: Activity 2 hours.",
+        "prerequisites/corequisite": "Required corequisite for enrollment category M-III and M-IV students in CS 22A  .",
+        "grading": "Credit/No Credit/No Degree Credit"
+    },
+    {
+        "id": 203,
+        "title": "CS 1290R - Culminating Experience Supervision",
+        "units": "1 unit(s)",
+        "description": "Continued work on thesis or project beyond minimum required units, for cases in which final deliverables are still in progress.",
+        "class_structure": "Class structure not found",
+        "prerequisites/corequisite": "RP grade in a preceding thesis or project semester.\u00a0Graduate standing. Allowed Declared Major: Computer Science, Bioinformatics, Data Science. Or instructor consent.",
+        "grading": "Credit/No Credit/No Degree Credit"
+    }
+]
