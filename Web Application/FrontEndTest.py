@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-
+from LLM import get_chatbot_response
 app = Flask(__name__)
 
 @app.route("/")
@@ -9,8 +9,9 @@ def home():
 @app.route("/chat", methods=["POST"])
 def chat():
     user_input = request.json.get("message")
-    response = {"message": f"Mock response for: {user_input}"}
-    return jsonify(response)
+    chatbot_response = get_chatbot_response(user_input)
+
+    return jsonify({"message": chatbot_response})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
