@@ -59,21 +59,38 @@
             justify-content: flex-start;
             display: flex;
         }
+        .uploaded-file {
+            display: flex;
+            align-items: center;
+            margin-top: 5px;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f8f9fa;
+        }
+
+        .uploaded-file span {
+            flex-grow: 1;
+        }
     </style>
 </head>
 <body>
     <div class="container mt-5">
         <div class="chat-container">
             <h2 class="text-center">Academic Advisor Chatbot</h2>
-            <div id="chatbox" class="chatbox">
-                <p id="loading-message" style="text-align: center; font-weight: bold; color: gray;">Loading chatbot...</p>
-            </div>
+            <div id="chatbox" class="chatbox"></div>
             <div class="input-group mt-3">
                 <input type="text" id="user-input" class="form-control" placeholder="Ask a question..." onkeypress="handleKeyPress(event)">
                 <button class="btn btn-primary" onclick="sendMessage()">Send</button>
+                <input type="file" id="file-input" style="display: none;" onchange="handleFileUpload(event)">
+                <button class="btn btn-secondary" onclick="document.getElementById('file-input').click();">
+                    &#128206;
+                </button>
             </div>
+            <div id="uploaded-files" class="mt-2"></div>
         </div>
     </div>
+
 
     <script>
         function handleKeyPress(event) {
@@ -81,10 +98,42 @@
                 sendMessage();
             }
         }
+        let uploadedFiles = []; // Store uploaded files
 
+        function handleFileUpload(event) {
+            let files = event.target.files;
+
+            for (let file of files) {
+                // Check if file is already uploaded
+                if (!uploadedFiles.some(f => f.name === file.name)) {
+                    uploadedFiles.push(file);
+                    displayUploadedFiles();
+                }
+            }
+        }
+
+        function displayUploadedFiles() {
+            let fileListDiv = document.getElementById("uploaded-files");
+            fileListDiv.innerHTML = ""; // Clear existing list
+
+            uploadedFiles.forEach((file, index) => {
+                let fileItem = document.createElement("div");
+                fileItem.classList.add("uploaded-file");
+
+                fileItem.innerHTML = `
+                    <span>${file.name}</span>
+                    <button class="btn btn-sm btn-danger ms-2" onclick="removeFile(${index})">❌</button>
+                `;
+
+                fileListDiv.appendChild(fileItem);
+            });
+        }
+
+        function removeFile(index) {
+            uploadedFiles.splice(index, 1); // Remove file from array
+            displayUploadedFiles(); // Update UI
+        }
         async function sendMessage() {
-            document.getElementById("loading-message").style.display = "none";  // Hide loading message when user interacts
-
             let userMessage = document.getElementById("user-input").value.trim();
             if (!userMessage) return;  // Prevent sending empty messages
 
@@ -128,5 +177,6 @@
         }
 
     </script>
+
 </body>
 </html>
