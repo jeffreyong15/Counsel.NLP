@@ -15,7 +15,7 @@ Advisor: Dr. Magdalini Eirinaki
 
 ## Dataset
 
-The dataset was created in JSON format and can be found under the [`academic_advising_dataset`](./Academic_advising_dataset) folder in this repository and includes:
+The dataset was created in JSON format and can be found under the [`academic_advising_dataset`](./Academic advising dataset) folder in this repository and includes:
 
 - **1048 courses** from the official SJSU course catalog  
   - Includes details such as course titles, descriptions, prerequisites, corequisites, and class structures  
