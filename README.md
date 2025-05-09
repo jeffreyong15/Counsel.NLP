@@ -69,4 +69,21 @@ You can try the chatbot here 👉 [Counsel.NLP Chatbot](https://counsel-nlp.stre
 
 ![chatbot](https://github.com/user-attachments/assets/c0d2b03b-a70d-4839-bcc3-70dfe579cc98)
 
+## Running the Evaluation
+
+To evaluate the chatbot's performance:
+
+1. Open the `Llama_RAG.ipynb` notebook in **Google Colab** using this link:  
+   📎 [Run Llama_RAG.ipynb in Google Colab](./Llama_RAG.ipynb)
+
+2. Once the notebook opens, **run all cells from top to bottom**.
+
+   This will:
+   - Load the evaluation dataset
+   - Perform document retrieval using the vector store
+   - Generate responses with the LLM
+   - Compute evaluation metrics like **BERTScore**, **Answer Presence**, and **Consistency**
+
+> 💡 Make sure the necessary files like `vector__store.zip` and `academic_advising_dataset` are accessible via GitHub or uploaded in the Colab session.
+
 ---    
