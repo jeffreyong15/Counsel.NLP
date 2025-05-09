@@ -18,13 +18,14 @@ Advisor: Dr. Magdalini Eirinaki
 The dataset was created in JSON format and includes:
 
 - **1048 courses** from the official SJSU course catalog  
-  - Includes details such as course titles, descriptions, prerequisites, corequisites, and structures  
+  - Includes details such as course titles, descriptions, prerequisites, corequisites, and class structures  
 - Covers **3 graduate programs**:
   - MS in Artificial Intelligence (MSAI)
   - MS in Computer Engineering (MSCMPE)
   - MS in Software Engineering (MSSE)
-- **106 general advising questions** sourced from official SJSU advising and department websites
+- **106 general advising topics** sourced from official SJSU advising and department websites
 
+The dataset can found under 
 ---
 
 ## Preprocessing & Data Collection
