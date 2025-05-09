@@ -15,7 +15,7 @@ Advisor: Dr. Magdalini Eirinaki
 
 ## Dataset
 
-The dataset was created in JSON format and includes:
+The dataset was created in JSON format and can be found under the [`academic_advising_dataset`](./academic_advising_dataset) folder in this repository and includes:
 
 - **1048 courses** from the official SJSU course catalog  
   - Includes details such as course titles, descriptions, prerequisites, corequisites, and class structures  
@@ -25,7 +25,6 @@ The dataset was created in JSON format and includes:
   - MS in Software Engineering (MSSE)
 - **106 general advising topics** sourced from official SJSU advising and department websites
 
-The dataset can found under 
 ---
 
 ## Preprocessing & Data Collection
@@ -66,4 +65,8 @@ The chatbot interface was developed with **Streamlit**, supporting:
 - Upload-based transcript parsing for **personalized course recommendations**
 - Real-time response generation and retrieval explanation
 
----
+You can try the chatbot here 👉 [Counsel.NLP Chatbot](https://counsel-nlp.streamlit.app/)
+
+![chatbot](https://github.com/user-attachments/assets/c0d2b03b-a70d-4839-bcc3-70dfe579cc98)
+
+---    
