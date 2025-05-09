@@ -86,6 +86,10 @@ To evaluate the chatbot's performance:
    - Generate responses with the LLM
    - Compute evaluation metrics like **BERTScore**, **Answer Presence**, and **Consistency**
 
-> 💡 Make sure the necessary files like `vector__store.zip` and `academic_advising_dataset` are accessible via GitHub or uploaded in the Colab session.
+>  All necessary files like `vector__store.zip` and the `academic_advising_dataset` folder should be obtained from this GitHub repository and manually uploaded to your Google Colab session:
+> - [`vector_store.zip`](./vector_store.zip)
+> - [`academic_advising_dataset/`](./academic_advising_dataset)
+>
+> After uploading, make sure to unzip `vector__store.zip` inside Colab before running the retrieval and generation pipeline.
 
 ---    
