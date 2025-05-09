@@ -89,7 +89,7 @@ To evaluate the chatbot's performance:
 >  All necessary files like `vector__store.zip`, `courses.txt` and the `academic_advising_dataset` folder should be obtained from this GitHub repository and manually uploaded to your Google Colab session:
 > - [`vector_store.zip`](./vector_store.zip)
 > - [`academic_advising_dataset/`](./academic_advising_dataset)
-> - [`courses.txt`](./courses.txt)
+> - [`courses.txt`](./academic_advising_dataset/courses.txt)
 >   
 > After uploading, make sure to unzip `vector__store.zip` inside Colab before running the retrieval and generation pipeline.
 
