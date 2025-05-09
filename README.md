@@ -1,17 +1,68 @@
 # Counsel.NLP
 
-Smart Academic Advisor 
+**Smart Academic Advisor**  
+CMPE 295A/B Project – San José State University  
+Developed by: Jeffrey Ong, Baljot Singh, Pranay Mantramurti  
+Advisor: Dr. Magdalini Eirinaki
 
-CMPE 295A/B Project
+---
 
-## Introduction
-Counsel.NLP is a Smart Academic Advising Chatbot centered to advise students in the College of Engineering at San Jose State Univeristy. The project refers to previous academic papers similar in topic and implementation. Links to the academic papers are located at the bottom of this document.
+## 🧠 Introduction
 
-## Baselines
-In order to compare our performance metrics with others previously implemented, we replicated two academic papers who applied different methods to designing a Chatbot for academic purposes. Mock student data was created and was used to train the models implemented. The dataset is stored in the repository as [academic_advising_data.csv](Baseline%20Experiment/Baseline%20Evaluation/academic_advising_data.csv)
+**Counsel.NLP** is a modular academic advising chatbot designed to assist students from the College of Engineering at San José State University. It integrates **Retrieval-Augmented Generation (RAG)**, **vector-based document search**, and **large language models (LLMs)** through a lightweight web application interface. The goal is to deliver **context-aware**, **relevant**, and **accurate academic responses**, while scaling support for student advising.
 
-**KNN & Naive Bayes**
+---
 
-KNN & Naive Bayes was the first baseline achieving a respective accuracy of 70% & 73%. As noted in the image below [In Progress], the precesion is where they differ as we can see Naive Bayes maintains a higher score in comparison to KNN. In regards to response time, we see the latter is quick to respond in comparison to the former.
+## 📂 Dataset
 
-**GPT-J**
+The dataset was created in JSON format and includes:
+
+- **1048 courses** from the official SJSU course catalog  
+  - Includes details such as course titles, descriptions, prerequisites, corequisites, and structures  
+- Covers **3 graduate programs**:
+  - MS in Artificial Intelligence (MSAI)
+  - MS in Computer Engineering (MSCMPE)
+  - MS in Software Engineering (MSSE)
+- **106 general advising questions** sourced from official SJSU advising and department websites
+
+---
+
+## ⚙️ Preprocessing & Data Collection
+
+To create the dataset:
+1. **Course Data** was scraped and normalized from the official SJSU course catalog.
+2. **Advising Topics** were collected from SJSU's graduate program advising pages and manually curated.
+3. Data was stored in a structured JSON format for efficient retrieval and LLM context integration.
+
+---
+
+## 🧪 Testbed Setup
+
+We manually crafted **61 evaluation questions** representing real-world advising needs. Each was tested against our chatbot for:
+- **BERTScore F1**
+- **Answer Presence**
+- **Answer Consistency**
+- **Response Time** and **Length**
+
+Evaluation results help quantify the chatbot’s reliability and relevance in academic advising contexts.
+
+---
+
+## 🧠 Model Used
+
+Counsel.NLP uses a **Retrieval-Augmented Generation (RAG)** pipeline with:
+- **HuggingFace Embeddings** for vector storage
+- **Chroma** as the vector database
+- **NVIDIA’s Chat LLM (Llama-3.2-3B-Instruct)** for text generation
+- Lightweight orchestration using **LangGraph**
+
+---
+
+## 💻 Web Application
+
+The chatbot interface was developed with **Streamlit**, supporting:
+- Natural language queries about courses or advising topics
+- Upload-based transcript parsing for **personalized course recommendations**
+- Real-time response generation and retrieval explanation
+
+---
