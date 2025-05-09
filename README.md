@@ -74,10 +74,12 @@ You can try the chatbot here 👉 [Counsel.NLP Chatbot](https://counsel-nlp.stre
 To evaluate the chatbot's performance:
 
 1. Open the `Llama_RAG.ipynb` notebook in **Google Colab** using this link:  
-   📎 [Run Llama_RAG.ipynb in Google Colab](./Llama_RAG.ipynb)
+   [Run Llama_RAG.ipynb in Google Colab](./Llama_RAG.ipynb)
 
-2. Once the notebook opens, **run all cells from top to bottom**.
+2. After opening it, click **"Open in Colab"** at the top of the GitHub viewer (if available), or upload it manually to [Google Colab](https://colab.research.google.com/).
 
+3. Once in Colab, **run all cells from top to bottom**.
+   
    This will:
    - Load the evaluation dataset
    - Perform document retrieval using the vector store
