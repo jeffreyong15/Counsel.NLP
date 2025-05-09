@@ -1,0 +1,114 @@
+[
+    {
+        "id": "MSCMPE",
+        "title": "MSCMPE - Master of Science in Computer Engineering",
+        "units": "30 units total",
+        "description": "Master of Science in Computer Engineering (MS-CMPE) program requirements, including core courses, specialization tracks, elective courses, writing requirement, and culminating experience.",
+        "prerequisite(s)": [
+            "Bachelor’s degree in Computer Engineering, Computer Science, or a related field",
+            "Competency in programming, computer systems, and engineering principles recommended"
+        ],
+        "corequisite(s)": [
+            "No corequisites listed"
+        ],
+        "pre/corequisite(s)": [
+            "No pre/corequisites listed"
+        ],
+        "grading": "Letter Graded",
+        "notes": [
+            "Students must complete a minimum of 30 units",
+            "Students must pass the Graduation Writing Assessment Requirement (GWAR)",
+            "Completion of a project or thesis is required"
+        ],
+        "class_structure": "Hybrid (Lecture + Project/Thesis)",
+        "core_courses": [
+            {"course": "CMPE 200", "title": "Research Methodology", "units": "3"},
+            {"course": "CMPE 220", "title": "Advanced Computer Architecture", "units": "3"},
+            {"course": "CMPE 240", "title": "Advanced Digital Design", "units": "3"}
+        ],
+        "specialization_tracks": {
+            "System Software Architecture": {
+                "overview": "Focuses on software architecture, system design, and high-level programming.",
+                "required_core_courses": [
+                    {"course": "CMPE 213", "title": "Software Architecture and Design Patterns", "units": "3"},
+                    {"course": "CMPE 214", "title": "Advanced Operating Systems", "units": "3"}
+                ],
+                "specialization_choice_courses": [
+                    {"course": "CMPE 249", "title": "Distributed Systems", "units": "3"},
+                    {"course": "CMPE 281", "title": "Cloud Computing", "units": "3"},
+                    {"course": "CMPE 283", "title": "Virtualization Technologies", "units": "3"}
+                ]
+            },
+            "Network Systems": {
+                "overview": "Covers networking principles, protocols, and system administration.",
+                "required_core_courses": [
+                    {"course": "CMPE 206", "title": "Network Engineering", "units": "3"},
+                    {"course": "CMPE 207", "title": "Advanced Network Programming", "units": "3"}
+                ],
+                "specialization_choice_courses": [
+                    {"course": "CMPE 208", "title": "Network Security", "units": "3"},
+                    {"course": "CMPE 209", "title": "Internet of Things (IoT)", "units": "3"},
+                    {"course": "CMPE 210", "title": "Wireless Communications", "units": "3"}
+                ]
+            }
+        },
+        "elective_courses": {
+            "overview": "Students may select any graduate-level CMPE course except restricted courses.",
+            "restricted_courses": [
+                "CMPE 270", "CMPE 271", "CMPE 298", "CMPE 298i", "CMPE 295A", "CMPE 295B", "CMPE 299A", "CMPE 299B"
+            ]
+        },
+	"graduate_writing_requirement": {
+             "courses": [
+                {
+                    "course": "CMPE 294",
+                    "title": "Computer Engineering Seminar",
+                    "units": "3",
+                    "description": "Seminar covering advanced research topics in software engineering and technology."
+                },
+                {
+                    "course": "ENGR 200W",
+                    "title": "Engineering Reports",
+                    "units": "3",
+                    "description": "Technical writing for engineers, focusing on research documentation and professional communication."
+                }
+            ]
+        },
+        "culminating_experience": {
+            "Masters Project": [
+                {
+                    "course": "CMPE 295A",
+                    "title": "Master's Project I",
+                    "units": "3",
+                    "description": "Initial phase of the master's project, including research, design, and development planning."
+                },
+                {
+                    "course": "CMPE 295B",
+                    "title": "Master's Project II",
+                    "units": "3",
+                    "description": "Final implementation, testing, and presentation of the master's project."
+                }
+            ],
+            "Masters Thesis": [
+                {
+                    "course": "CMPE 299A",
+                    "title": "Master's Thesis I",
+                    "units": "3",
+                    "description": "Research and proposal development for the master's thesis in software engineering."
+                },
+                {
+                    "course": "CMPE 299B",
+                    "title": "Master's Thesis II",
+                    "units": "3",
+                    "description": "Completion and defense of the master's thesis research."
+                }
+            ]
+        },
+        "graduation_requirements": [
+            "Submission of Candidacy Form",
+            "Submission of Graduation Application",
+            "Completion of Thesis or Project Report",
+            "Maintain a minimum 3.0 GPA"
+        ]
+    }
+]

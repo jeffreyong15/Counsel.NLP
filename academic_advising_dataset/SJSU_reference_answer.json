@@ -1,0 +1,322 @@
+[
+    {
+        "question_id": 1,
+        "question": "What are the prerequisites for KIN 1?",
+        "reference_answer": "There are no prerequisites listed for KIN 1."
+    },
+    {
+        "question_id": 2,
+        "question": "What are the prerequisites for CMPE 257?",
+        "reference_answer": "The prerequisites for CMPE 259 are CMPE 180A, classified standing, or instructor consent. Artificial Intelligence or Computer Engineering or Software Engineering majors only."
+    },
+    {
+        "question_id": 3,
+        "question": "What are the prerequisites for cmpe 259?",
+        "reference_answer": "The prerequisites for CMPE 259 are CMPE 252, CMPE 255, or CMPE 257, or instructor consent. Artificial Intelligence, Computer Engineering, and Software Engineering Master's students only."
+    },
+    {
+        "question_id": 4,
+        "question": "What are the prerequisites for cmpe-260?",
+        "reference_answer": "The prerequisites for CMPE 260 are CMPE 252, CMPE 255, CMPE 257, or instructor consent."
+    },
+    {
+        "question_id": 5,
+        "question": "List all the different CMPE courses.",
+        "reference_answer": "CMPE courses include CMPE 50, CMPE 92, CMPE 102, CMPE 126, CMPE 127, CMPE 130, CMPE 131, CMPE 132, CMPE 133, CMPE 135, CMPE 137, CMPE 138, CMPE 139, CMPE 140, CMPE 142, CMPE 146, CMPE 148, CMPE 150, CMPE 152, CMPE 163, CMPE 189, CMPE 192, CMPE 195A, CMPE 195B, CMPE 198, CMPE 200, CMPE 202, CMPE 206, CMPE 213, CMPE 214, CMPE 220, CMPE 240, CMPE 249, CMPE 259, CMPE 260, CMPE 264, CMPE 265, CMPE 266, CMPE 270, CMPE 271, CMPE 281, CMPE 283, CMPE 294, CMPE 295A, CMPE 295B, CMPE 295W, CMPE 297, CMPE 298, CMPE 299A, CMPE 299B."
+    },
+    {
+        "question_id": 6,
+        "question": "What are the core courses for the MSAI major?",
+        "reference_answer": "The core courses for the MSAI major are CMPE 252: Artificial Intelligence and Data Engineering, CMPE 257: Machine Learning and ISE 201: Math Foundations for Decision and Data Sciences"
+    },
+    {
+        "question_id": 7,
+        "question": "Can you provide the description of CMPE 252?",
+        "reference_answer": "The description of CMPE 252 is inroduction to important concepts and techniques from the fields of artificial intelligence, evolution of AI systems, intelligent agents, problem solving by searching, machine learning, neural networks, reinforcement learning, and knowledge representation. The data engineering and science process is covered as well as applications of AI and ethical considerations."
+    },
+    {
+        "question_id": 8,
+        "question": "What are the restricted courses that I cannot take for MSSE major as an elective course?",
+        "reference_answer": "The restricted courses that you cannot take for MSSE major as an elective course are CMPE 270, CMPE 271, CMPE 294, CMPE 298, CMPE 298I, CMPE 295A, CMPE 295B, CMPE 299A, or CMPE 299B."
+    },
+    {
+        "question_id": 9,
+        "question": "What are specialization tracks for MSAI major?",
+        "reference_answer": "The specialization tracks for the MSAI major are 'Data Science' and 'Autonomous Systems'."
+    },
+    {
+        "question_id": 10,
+        "question": "What are the prerequisites for CS 156?",
+        "reference_answer": "Prerequisites for CS 156 are CS 146 with a grade of 'C-' or better."
+    },
+    {
+        "question_id": 11,
+        "question": "What are the corequisites for BIOL 124?",
+        "reference_answer": "The corequisites for BIOL 124 is BIOL 125."
+    },
+    {
+        "question_id": 12,
+        "question": "What are the pre/corequisites for ARTH 11?",
+        "reference_answer": "The Pre/Corequisites for ARTH 11 are ART 12  or ART 13  or PHOT 40  or instructor consent."
+    },
+    {
+        "question_id": 13,
+        "question": "What is the class structure for AE 110?",
+        "reference_answer": "The class structure for AE 110 consists of a 2-hour lecture and a 3-hour lab."
+    },
+    { 
+        "question_id": 14,
+        "question": "What are the prerequisites for the MSCMPE major?",
+        "reference_answer": "The prerequisites for the MSCMPE major are a Bachelor's degree in Computer Engineering, Computer Science, or a related field, and competency in programming, computer systems, and engineering principles."
+    },
+    {
+        "question_id": 15,
+        "question": "What are all the elective courses for the MSAI major?",
+        "reference_answer": "Elective courses for the MSAI major include CMPE 214: GPU Architecture and Programming, CMPE 217: Human Computer Interaction, CMPE 243: Embedded Systems Applications, CMPE 249: Intelligent Autonomous Systems, CMPE 255: Data Mining, CMPE 256: Advanced Data Mining, CMPE 258: Deep Learning, CMPE 259: Natural Language Processing, CMPE 260: Reinforcement Learning, CMPE 266: Big Data Engineering and Analytics, CMPE 281: Cloud Technologies, CMPE 297: Special Topics in Computer/Software Engineering, and CMPE 298: Special Problems."
+    },
+    {
+        "question_id": 16,
+        "question": "What are the culminating experience options for the MSSE major?",
+        "reference_answer": "The culminating experience options for the MSSE major are Masters Project (CMPE 295A and CMPE 295B) or Masters Thesis (CMPE 299A and CMPE 299B)."
+    },
+    {
+        "question_id": 17,
+        "question": "What are the graduate writing requirement for the MSSE major?",
+        "reference_answer": "The graduate writing requirement for the MSSE major is ENGR 200W: Engineering Reports (3 units) and CMPE 294: Computer Engineering Seminar (3 units)."
+    },
+    {
+        "question_id": 18,
+        "question": "What courses require CMPE 252 as a prerequisite?",
+        "reference_answer": "CMPE 249, CMPE 259 and CMPE 260 require CMPE 252 as a prerequisite"
+    },
+    {
+        "question_id": 19,
+        "question": "Which KIN courses fulfill Movement Area 5 Team requirements?",
+        "reference_answer": "KIN 3, KIN 11A, KIN 13A, KIN 14A, KIN 14B, KIN 14C, KIN 15A, KIN 15B, KIN 16A, KIN 19A, KIN 19B and KIN 65A are the courses that fulfill Movement Area 5 Team requirements"
+    },
+    {
+        "question_id": 20,
+        "question": "How many units is ISE 297?",
+        "reference_answer": "ISE 297 - Special Topics in Industrial Engineering is a 1-4 unit(s) course."
+    },
+    {
+        "question_id": 21,
+        "question": "Is there a beginning-level swimming course at SJSU?",
+        "reference_answer": "Yes, SJSU offers a beginning-level swimming course, KIN 2A - Beginning Swimming, designed for non-swimmers and beginners."
+    },
+    {
+        "question_id": 22,
+        "question": "Do I need instructor consent to enroll in ADV 116 - Spartan Daily Advertising Staff?",
+        "reference_answer": "Yes, you need ADV 91 or instructor consent to enroll in ADV 116."
+    },
+    {
+        "question_id": 23,
+        "question": "Do I need MATH 33A to enroll in AE 105 - Mathematical Methods for Aerospace Engineers?",
+        "reference_answer": "Yes, you need MATH 33A as corequisite to enroll in AE 105."
+    },
+    {
+        "question_id": 24,
+        "question": "Can I take ADV 127 - Practical Qualitative Research in Advertising without taking ADV 91?",
+        "reference_answer": "You cannot take ADV 127 without first taking ADV 91."
+    },
+    {
+        "question_id": 25,
+        "question": "What is the grading system for CHIN 132?",
+        "reference_answer": "The grading system for CHIN 132 is Letter Graded."
+    },
+    {
+        "question_id": 26,
+        "question": "What are the course recommendations for Software Engineering(MSSE) major?",
+        "reference_answer": "For a Software Engineering (MSSE) major, the core courses are CMPE 272, CMPE 202, and CMPE 255. After completing these, you can choose a specialization track like Enterprise Software Technologies, Cloud Computing and Virtualization, Data Science, or Cybersecurity, which each have their own set of required and choice courses. Besides that, you'll also need to complete 6 units of electives, pass the Graduation Writing Assessment Requirement (GWAR), and choose a culminating experience such as a Master's Project or Master's Thesis to complete you Masters."
+    },
+    {
+        "question_id": 27,
+        "question": "What are the best courses to take for machine learning?",
+        "reference_answer": "DATA 245 - Machine Learning Technologies, CS 171 - Introduction to Machine Learning and CS 271 - Topics in Machine Learning"
+    },
+    {
+        "question_id": 28,
+        "question": "Can you recommend an advertising course that focuses on digital media?",
+        "reference_answer": "Yes, ADV 126 - Media Planning and Buying focuses on digital media planning, buying, and measuring ad success is an good advertising course that focuses on digital media"
+    },
+    {
+        "question_id": 29,
+        "question": "I want to take a dance class. What are my options?",
+        "reference_answer": "You have several options for dance classes. DANC 46A and KIN 46A both offer beginning social dance focusing on American Smooth, American Rhythm, and nightclub dances. DANC 148 is for children's dance, while DANC 194 provides performance experience in dance."
+    },
+    {
+        "question_id": 30,
+        "question": "What are the core courses for Software Engineering(MSSE) major?",
+        "reference_answer": "The core courses for Software Engineering(MSSE) major are CMPE 272: Enterprise Software Overview, CMPE 202: Software Systems Engineering, and CMPE 255: Data Mining."
+    },
+    {
+        "question_id": 31,
+        "question": "Which aerospace courses involve MATLAB programming?",
+        "reference_answer": "AE 30, AE 149 and AE 269 are the aerospace courses involve MATLAB programming."
+    },
+    {
+        "question_id": 32,
+        "question": "What is the difference between KIN 35A and KIN 35B?",
+        "reference_answer": "KIN 35A is a beginning weight training course designed to teach the basic concepts of weight training for muscular strength and endurance. Its goal is to provide students with knowledge about the principles involved in weight training and the health-related components of fitness through a variety of exercises. KIN 35B is a intermediate weight training course for individuals with prior training experience and involves higher level exercises. Students will be exposed to a wide variety of machines as well as free weight exercises and will then design a program based on individual needs."
+    },
+    {
+        "question_id": 33,
+        "question": "What are the prerequisites for BUS4 119A?",
+        "reference_answer": "The prerequisite for BUS4 119A are any 100W or equivalent and BUS4 110A, BUS4 110B, BUS4 111 and BUS4 112 (all with a C or Better)."
+    },
+    {
+        "question_id": 34,
+        "question": "How many units should i complete as a software engineer major at SJSU?",
+        "reference_answer": "Students must complete a minimum of 33 units as a software engineer major at SJSU."
+    },
+    {
+        "question_id": 35,
+        "question": "Are there any courses that focus specifically on cloud computing and distributed systems?",
+        "reference_answer": "Yes, there are courses that focus on cloud computing and distributed systems. Some examples include CS 218 - Topics in Cloud Computing and CMPE 281 - Cloud Technologies."
+    },
+    {
+        "question_id": 36,
+        "question": "What are the necessary prerequisites for taking Introduction to Database Management Systems (CS 157A)?",
+        "reference_answer": "To take CS 157A, you need to have completed CS 146 with a grade of C- or better. Computer Science, Applied and Computational Math, Forensic Science: Digital Evidence, Software Engineering, Data Science, or Computer Science and Linguistics majors only or instructor consent."
+    },
+    {
+        "question_id": 37,
+        "question": "If I want to take CS 160, which courses should I complete first?",
+        "reference_answer": "To take CS 160, you must complete CS 146, CS 151 (with a grade of C- or better in each) and CS 100W (with a grade of C or better) or instructor consent first."
+    },
+    {
+        "question_id": 38,
+        "question": "If I want to focus on cybersecurity, can I substitute any SE courses for CS security-related electives?",
+        "reference_answer": "Yes, you can substitute SE courses for CS security-related electives. For example, CS 266 and CS 265 are advanced security courses that can count as electives. However, check with your advisor to ensure they align with your specific degree requirements."
+    },
+    {
+        "question_id": 39,
+        "question": "Can a Software Engineering major take AI-focused courses from the CS department as electives?",
+        "reference_answer": "Yes, a Software Engineering major can take AI-focused courses from the CS department as electives. The allowed majors for CS 156 include Computer Science, Data Science, Computer Science and Linguistics, Applied and Computational Mathematics, Software Engineering, or instructor consent."
+    },
+    {
+        "question_id": 40,
+        "question": "What are the best elective choices for a CS student who wants to specialize in data science?",
+        "reference_answer": "CS 286 - Advanced Topics in Computer Science (focus on data science topics), DATA 200 - Computational Programming for Data Analytics, and CS 163 - Data Science Senior Project are among the best elective choices for a CS student aiming to specialize in data science."
+    },
+    {
+        "question_id": 41,
+        "question": "How can a graduate student clear their provisional admission status?",
+        "reference_answer": "To clear provisional admission status, a graduate student must first identify any outstanding documents listed on their MySJSU To-Do list and submit them to the Graduate Admissions and Program Evaluations (GAPE) Office. If there are questions about the documents, they should contact their assigned GAPE Evaluator for assistance. The provisional status must be cleared by the deadline specified on the To-Do list; otherwise, the student will be unable to register for the upcoming semester. Importantly, the graduate program department cannot remove the provisional status—only the GAPE Office can clear it once all required documents are submitted. Acting promptly is essential to avoid delays or loss of admission."
+    },
+    {
+        "question_id": 42,
+        "question": "Are graduate students allowed to leave for a semester?",
+        "reference_answer": "Yes, graduate students can leave for a semester under certain conditions such as medical, care-giving, military service, personal hardship, or educational reasons. This requires submitting a Leave of Absence Petition."
+    },
+    {
+        "question_id": 43,
+        "question": "Are undergraduate courses considered in GPA calculation for graduates?",
+        "reference_answer": "No, undergraduate courses are not considered in GPA calculation for graduates. Only graduate courses listed on the candidacy form are included."
+    },
+    {
+        "question_id": 44,
+        "question": "How do I switch to a different graduate program?",
+        "reference_answer": "To switch to a different graduate program, submit a 'Change of Graduate Program Petition' by July 1st for the fall semester or December 1st for the spring semester. Contact the Graduate Program Coordinator of the new program for additional documents needed. After submission, the petition will be evaluated by the Graduate Admissions and Program Evaluations (GAPE) Office for eligibility. If eligible, your academic information will be sent to the Graduate Program Coordinator of the new major. Final approval is decided by the department Graduate Program Coordinator."
+    },
+    {
+        "question_id": 45,
+        "question": "Can I enroll in two masters program at the same time?",
+        "reference_answer": "You cannot enroll in two masters programs at the same time as the university only allows simultaneous enrollment for a second master's degree in specific circumstances outlined in the catalog."
+    },
+    {
+        "question_id": 46,
+        "question": "What resources are available for graduate students through the SJSU Writing Center?",
+        "reference_answer": "The SJSU Writing Center offers graduate students free resources to improve their writing, including one-on-one consultations for personalized feedback, workshops on academic and research writing, and online guides for self-paced learning. It provides specialized support for theses and dissertations, helps with citation styles and avoiding plagiarism, and assists non-native English speakers with grammar and vocabulary. Additionally, the center facilitates writing groups for peer feedback and ensures accessibility for all students. Services are available in-person and online through the Dr. Martin Luther King, Jr. Library."
+    },
+    {
+        "question_id": 47,
+        "question": "Are there organizations to connect with Alumni?",
+        "reference_answer": "Yes, there are organizations to connect with Alumni. The San Jose State University Alumni Association connects graduates to their alma mater and each other. You can reach them at alumni@sjsu.edu or 408-924-6515. Additionally, LinkedIn can be used to find and connect with alumni. By searching for San Jose State University and filtering by where they work, what they do, and what they studied, you can find alumni to connect with."
+    },
+    {
+        "question_id": 48,
+        "question": "What should graduate students do if they need to change their graduation date?",
+        "reference_answer": "If graduate students need to change their graduation date, they must submit a Graduation Date Change Request form. This is necessary if they cannot complete all coursework and degree requirements by their originally applied graduation term. The form must be submitted to the Graduate Admissions and Program Evaluations (GAPE) Office, and students should ensure it is processed before enrolling in additional coursework or 1290R (continuous enrollment). Failure to change the graduation date may delay degree conferral. International students needing an F-1 extension should also consult ISSS for additional requirements."
+    },
+    {
+        "question_id": 49,
+        "question": "How do I maintain my F-1 Status?",
+        "reference_answer": "To maintain your F-1 Status, you must: 1. Pursue a full course of study: UGRD - 12 units, GRAD - 9 units. 2. Maintain a valid I-20 and extend it if needed. 3. Maintain a valid travel signature. 4. Report a change of address within 10 days of moving."
+    },
+    {
+        "question_id": 50,
+        "question": "What are the requirements for the J-1 visitor program?",
+        "reference_answer": "To qualify for the J-1 Visitor program, an individual must: 1. Have a bachelor's degree or appropriate experience in their field. 2. Be sponsored by a department extending an academic appointment. 3. Demonstrate English proficiency and adequate funding for their stay."
+    },
+    {
+        "question_id": 51,
+        "question": "What grades are considered unsatisfactory?",
+        "reference_answer": "Grades of C- or lower, including NC, IC and WU, are considered unsatisfactory."
+    },
+    {
+        "question_id": 52,
+        "question": "What grades are condidered satisfactory?",
+        "reference_answer": "Satisfactory grades are A, B, and C."
+    },
+    {
+        "question_id": 53,
+        "question": "What is the deadline for submitting my candidacy form?",
+        "reference_answer": "The deadline for submitting your candidacy form depends on your expected graduation term. You should review the GAPE Deadlines webpage for the specific date associated with your graduation term."
+    },
+    {
+        "question_id": 54,
+        "question": "How do I negotiate an offer with my employer?",
+        "reference_answer": "To negotiate an offer, first research the typical salary range for the role using sources like Payscale or Glassdoor. Then, be reasonable, gracious, and creative in your negotiation. Consider all aspects of the compensation package, not just salary. If the salary is fixed, ask about a 90-day evaluation period to revisit your salary if you meet or exceed your goals."
+    },
+    {
+        "question_id": 55,
+        "question": "What are some interview tips?",
+        "reference_answer": "To succeed in an interview, arrive early, dress appropriately, and maintain good posture. Additionally, prepare for common interview questions and practice your responses. Show enthusiasm for the position and company, and ask thoughtful questions at the end of the interview."
+    },
+    {
+        "question_id": 56,
+        "question": "What type of questions are asked in interviews?",
+        "reference_answer": "In interviews, several types of questions are asked. These include: - **Behavioral Questions** that assess how you've handled situations in the past, often starting with 'Tell me about a time when...' or 'Give me an example of...' - **Situational Questions** that present hypothetical scenarios to evaluate your decision-making and problem-solving skills. - **Difficult Questions** designed to catch you off guard and assess your critical thinking, self-awareness, and growth mindset. - **Questions to Ask the Interviewer** at the end of the interview to show your interest in the position and gain more information. - For academic positions, there are specific research and teaching interview questions. - Common interview questions include inquiries about your background, strengths, weaknesses, and career goals. - International interviewees should be aware of cultural differences in US interviews, such as being more assertive and promoting their own accomplishments."
+    },
+    {
+        "question_id": 57,
+        "question": "What opportunities are there for graudate students?",
+        "reference_answer": "Graduate students have opportunities like research grants, fellowships, internships, practicums, and industry experience. Resources for finding these include SJSU's Career Center, Research Foundation, faculty connections, think tanks, Handshake, professional associations, LinkedIn, and other job boards. Additionally, SJSU has centers like the Black Leadership & Opportunity Center, Center for APISE, and UndocuSpartan that provide opportunities tailored to their respective communities."
+    },
+    {
+        "question_id": 58,
+        "question": "What should I do after accepted a job offer?",
+        "reference_answer": "After accepting an offer or once you accept a job/internship offer, we recommend you stop applying or interviewing for other roles. Accepting a job offer means you have officially committed to work for a specific organization. If there are circumstances in which you  are considering another offer, please schedule an appointment  with your career counselor to talk through your specific situation and the best options to move forward with minimal negative impact on the employer you are working with."
+    },
+    {
+        "question_id": 59,
+        "question": "How should I format my resume as an international?",
+        "reference_answer": "For an international resume, follow these key differences from a US resume: 1. Use a CV instead of a resume, which is longer and includes more details about education and experience. 2. Do not include personal information like age, gender, or marital status. 3. Provide a frame of reference for international experience, quantifying achievements when possible."
+    },
+    {
+        "question_id": 60,
+        "question": "What are some tips to maximize my experience at a career fair?",
+        "reference_answer": "To maximize your experience at a career fair, use the floor map to locate your target employers beforehand. Approach non-target employers first to practice your conversation starter and calm your nerves. At target employer booths, have brief conversations, initiate a handshake with a smile, avoid discussing salary or benefits, offer your resume, ask about the application process, request a business card, and shake hands to close. After the fair, send a thank you email, follow the application process, and plan for success with your new employer."
+    },
+    {
+        "question_id": 61,
+        "question": "How important is it to network?",
+        "reference_answer": "Networking is vital for job searches, with 70% of jobs found through networking (Payscale, 2017). It's not just for extroverts, and should start early to avoid appearing disingenuous."
+    },
+    {
+        "question_id": 62,
+        "question": "Who can I talk to about financial aid related information?",
+        "reference_answer": "You can talk to the Financial Aid and Scholarship Office (FASO) for financial aid related information. They can be reached at fao@sjsu.edu or 408-283-7500."
+    },
+    {
+        "question_id": 63,
+        "question": "Does SJSU have any counseling services?",
+        "reference_answer": "Yes, SJSU offers free counseling services through its Counseling and Psychological Services (CAPS)."
+    },
+    {
+        "question_id": 64,
+        "question": "What are some common interview questions?",
+        "reference_answer": " Some common interview questions include:\n- \"Tell me about yourself.\"\n- \"Why do you want to work here?\"\n- \"Why should we hire you?\"\n- \"What is your greatest strength?\"\n- \"What is your greatest weakness?\"\n- \"What accomplishment are you most proud of and why?\"\n- \"Where do you see yourself in 5 years?\"\n- \"Tell me about a time when you faced a challenge and overcame it.\"\n- \"Tell me about a time when you had to resolve a conflict with a coworker or classmate.\"\n- \"Do you have any questions for me?\""
+    }
+]
