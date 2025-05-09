@@ -7,13 +7,13 @@ Advisor: Dr. Magdalini Eirinaki
 
 ---
 
-## 🧠 Introduction
+## Introduction
 
 **Counsel.NLP** is a modular academic advising chatbot designed to assist students from the College of Engineering at San José State University. It integrates **Retrieval-Augmented Generation (RAG)**, **vector-based document search**, and **large language models (LLMs)** through a lightweight web application interface. The goal is to deliver **context-aware**, **relevant**, and **accurate academic responses**, while scaling support for student advising.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset was created in JSON format and includes:
 
@@ -27,7 +27,7 @@ The dataset was created in JSON format and includes:
 
 ---
 
-## ⚙️ Preprocessing & Data Collection
+## Preprocessing & Data Collection
 
 To create the dataset:
 1. **Course Data** was scraped and normalized from the official SJSU course catalog.
@@ -36,7 +36,7 @@ To create the dataset:
 
 ---
 
-## 🧪 Testbed Setup
+## Testbed Setup
 
 We manually crafted **61 evaluation questions** representing real-world advising needs. Each was tested against our chatbot for:
 - **BERTScore F1**
@@ -48,7 +48,7 @@ Evaluation results help quantify the chatbot’s reliability and relevance in ac
 
 ---
 
-## 🧠 Model Used
+## Model Used
 
 Counsel.NLP uses a **Retrieval-Augmented Generation (RAG)** pipeline with:
 - **HuggingFace Embeddings** for vector storage
@@ -58,7 +58,7 @@ Counsel.NLP uses a **Retrieval-Augmented Generation (RAG)** pipeline with:
 
 ---
 
-## 💻 Web Application
+## Web Application
 
 The chatbot interface was developed with **Streamlit**, supporting:
 - Natural language queries about courses or advising topics
