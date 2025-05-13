@@ -38,7 +38,7 @@ To create the dataset:
 
 ## Testbed Setup
 
-We manually crafted **61 evaluation questions** representing real-world advising needs. Each was tested against our chatbot for:
+We manually generated **61 evaluation questions** representing real-world advising needs. Each was tested against our chatbot for:
 - **BERTScore F1**
 - **Answer Presence**
 - **Answer Consistency**
