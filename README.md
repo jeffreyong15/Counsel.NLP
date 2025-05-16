@@ -34,6 +34,8 @@ To create the dataset:
 2. **Advising Topics** were collected from SJSU's graduate program advising pages and manually curated.
 3. Data was stored in a structured JSON format for efficient retrieval and LLM context integration.
 
+To recreate the data collection you can run code in the [`Baseline Experiment/Data Collection`](<./Baseline Experiment/Data Collection>). It also contains the PDFs necessary for the general advising scraping.
+
 ---
 
 ## Testbed Setup
